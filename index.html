@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>小猪佩奇听写</title>
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="container" class="container text-center" style="margin-top: 50px;">
+
+    </div>
+
+    <script src="bootstrap/js/bootstrap.bundle.js"></script>
+    <script>
+        fetch("data/00.json")
+            .then((res) => res.json())
+            .then((json) => {
+                console.log(json)
+                let html;
+                html = '<div class="row row-cols-1 row-cols-md-4 g-4" >';
+                for (let i = 0; i < json.length; i++) {
+                    html += '<div class="col">';
+                    html += '   <div class="card">';
+                    html += '       <div class="card-body " style="height:100px;display:flex; justify-content: center;">';
+                    html += '          <p class="card-text">' + json[i] + '</p>';
+                    html += '       </div>';
+                    html += '       <div class="card-footer">'
+                    html += '           <a href="episode.html?e=' + (i + 1) + '" class="card-link">去学习</a>';
+                    html += '       </div>';
+                    html += '   </div>';
+                    html += '</div>';
+                }
+
+                html += '</div>';
+                let oldHtml = document.getElementById("container").innerHTML;
+
+                document.getElementById("container").innerHTML = oldHtml + html;
+            });
+
+    </script>
+
+</body>
+
+</html>
