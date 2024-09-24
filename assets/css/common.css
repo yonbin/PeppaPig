@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'PingFangSC-Regular';
+    src: url('../font/PingFangSC-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html,
+body {
+    font-family: "PingFangSC-Regular", sans-serif;
+}

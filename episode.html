@@ -5,196 +5,173 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>小猪佩奇听写</title>
-    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/common.css">
 </head>
 
 <body>
-    <div class="container text-center" style="margin-top: 50px;">
-        <h5 id="article-title" style="margin-bottom: 30px;"></h5>
-        <p id="article-line">
-            <span></span>
-            <span></span>
-        </p>
-        <p id="article-line-tip">
-            <span></span>
-            <span></span>
-        </p>
-        <div>
-            <textarea autofocus required class="form-control" id="article-line-answer" autocomplete="false"
-                rows="3"></textarea>
-            <p id="errorMsg" style="margin-top: 5px;"></p>
-        </div>
-        <div>
-            <button type="button" id="btnGoBack" class="btn btn-primary btn-sm">倒退</button>
-            <button type="button" id="btnPlay" class="btn btn-primary btn-sm">播放</button>
-            <button type="button" id="btnPause" class="btn btn-primary btn-sm">暂停</button>
-            <button type="button" id="btnGoHead" class="btn btn-primary btn-sm">前进</button>
-        </div>
-        <div style="margin-top: 20px;">
-            <button type="button" id="btnPrev" class="btn btn-outline-primary">上一句</button>
-            <button type="button" id="btnNext" class="btn btn-outline-primary">下一句</button>
-            <a href="index.html" class="btn btn-outline-primary">返 回</a>
-        </div>
-        <div id="result" style="margin-top: 20px;">
-
-        </div>
+<div class="container text-center" style="margin-top: 50px;">
+    <h5 id="article-title" style="margin-bottom: 10px;"></h5>
+    <div id="article-line" style="margin-bottom: 10px;">
+        <span id="article-line-no"></span>
+        <span id="article-line-zh"></span>
     </div>
+    <div id="article-line-tip" style="margin-bottom: 10px;">
+    </div>
+    <div>
+        <textarea autofocus required class="form-control" id="article-line-answer" autocomplete="false"
+                  rows="3"></textarea>
+        <div id="errorMsg" style="margin-top: 5px;"></div>
+    </div>
+    <div style="margin-top: 10px;">
+        <button type="button" id="btnPlay" class="btn btn-primary btn-sm">播放</button>
+    </div>
+    <div style="margin-top: 10px;">
+        <button type="button" id="btnPrev" class="btn btn-outline-primary">上一句</button>
+        <button type="button" id="btnNext" class="btn btn-outline-primary">下一句</button>
+        <a href="index.html" class="btn btn-outline-primary">返 回</a>
+        <button type="button" id="btnAgain" class="btn btn-outline-primary">重新学</button>
+    </div>
+</div>
 
-    <script src="bootstrap/js/bootstrap.bundle.js"></script>
-    <script type="module">
+<script src="assets/bootstrap/js/bootstrap.bundle.js"></script>
+<script src="assets/js/lodash.min.js"></script>
+<script src="https://unpkg.com/hotkeys-js/dist/hotkeys.min.js"></script>
+<script type="module">
+    // get url param
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    let episode = urlParams.get('e');
 
-
-        // get url param
-        const queryString = window.location.search;
-        const urlParams = new URLSearchParams(queryString);
-        let e = urlParams.get('e');
-        let episode = e.padStart(2, '0');
-
-        let index = 0, data, dataAnswer, errorCount = 0;
-        if (localStorage.getItem(episode) != null) {
-            index = localStorage.getItem(episode);
+    let index = 0, data, errorCount = 0;
+    // 本地缓存中读取记录
+    if (localStorage.getItem(episode) != null) {
+        index = localStorage.getItem(episode);
+    }
+    console.log(index);
+    hotkeys.filter = function (event) {
+        return true;
+    }
+    /**
+     * 快捷键
+     */
+    hotkeys('ctrl+.,ctrl+;', {}, function (event, handler) {
+        switch (handler.key) {
+            case 'ctrl+.':
+                document.getElementById('btnNext').click();
+                break;
+            case 'ctrl+;':
+                document.getElementById('btnPlay').click();
+                break;
         }
-        console.log(index);
+    });
 
-        var audio = document.createElement("audio");
-        audio.src = "mp3/" + episode + ".mp3";
+    // audio
+    const audio = document.createElement("audio");
+    audio.src = "mp3/" + episode + ".mp3";
 
-        let articleLineSpans = document.querySelectorAll('#article-line span');
-
-        fetch("data/00.json")
-            .then((res) => res.json())
-            .then((json) => {
-                document.getElementById('article-title').innerText = json[e - 1]
-            });
-        fetch("data/" + episode + ".json")
-            .then((res) => res.json())
-            .then((json) => {
-                data = json;
-                articleLineSpans[0].innerText = index + '/' + data.length;
-                articleLineSpans[1].innerText = data[index];
-            });
-
-        fetch("data/" + episode + "_2.json")
-            .then((res) => res.json())
-            .then((json) => {
-                dataAnswer = json;
-            });
-
-
-        document.getElementById('btnPrev').addEventListener('click', function (event) {
-            if (index == 0) {
-                return;
-            }
-            index--;
-            document.getElementById('article-line-answer').value = '';
-            document.getElementById('tipMsg').innerHTML = '';
-
-            articleLineSpans[0].innerText = index + '/' + data.length;
-            articleLineSpans[1].innerText = data[index];
-        })
-
-        document.getElementById('btnNext').addEventListener('click', function (event) {
-            if (index == dataAnswer.length - 1) {
-                articleLineSpans[0].innerText = '';
-                articleLineSpans[1].innerText = '恭喜你已完成本集练习！！';
-                return;
-            }
-            let answer = document.getElementById('article-line-answer').value;
-            answer = answer.trim();
-            if (!answer || answer == '') {
-                return;
-            }
-
-            let arr1 = answer.split(' ');
-            let arr2 = dataAnswer[index].split(' ');
-            let arr3 = [];
-
-            for (let i = 0; i < arr1.length; i++) {
-                if (arr1[i] != arr2[i]) {
-                    arr3.push('<span class="text-warning">' + arr1[i] + '</span>');
-                } else {
-                    arr3.push(arr1[i]);
-                }
-            }
-
-            if (answer != dataAnswer[index]) {
-                document.getElementById('errorMsg').innerHTML = arr3.join(' ');
-                errorCount++;
-                correctTip(arr2)
-                return;
-            }
-
-            index++;
-            errorCount = 0;
-            localStorage.setItem(episode, index);
-            document.getElementById('article-line-answer').value = '';
-            document.getElementById('errorMsg').innerHTML = '';
-            articleLineSpans[0].innerText = index + '/' + data.length;
-            articleLineSpans[1].innerText = data[index];
-            const p = document.createElement("p");
-            p.innerText = answer;
-            document.getElementById('result').appendChild(p);
-            document.getElementById('article-line-answer').focus();
+    let divArticleLineNo = document.getElementById('article-line-no');
+    let divArticleLineZh = document.getElementById('article-line-zh');
+    let txtAnswer = document.getElementById('article-line-answer');
+    let divErrorMsg = document.getElementById('errorMsg');
+    fetch("data/" + episode + ".json")
+        .then((res) => res.json())
+        .then((json) => {
+            document.getElementById('article-title').innerText = json.title;
+            data = json.data;
+            console.log(divArticleLineNo)
+            divArticleLineNo.innerText = index + '/' + (data.length - 1);
+            divArticleLineZh.innerText = data[index].zh;
         });
 
-        document.getElementById('btnGoBack').addEventListener('click', function (event) {
-            let currentTime = audio.currentTime;
-            audio.currentTime = currentTime - 10;
-        })
-        document.getElementById('btnGoHead').addEventListener('click', function (event) {
-            let currentTime = audio.currentTime;
-            audio.currentTime = currentTime + 10;
-        })
-        document.getElementById('btnPlay').addEventListener('click', function (event) {
-            let text = document.getElementById('btnPlay').innerText;
-            if (text == "播放") {
-                audio.play();
-                document.getElementById('btnPlay').innerText = "停止";
-            } else {
-                audio.currentTime = 0;
-                audio.pause();
-                document.getElementById('btnPlay').innerText = "播放";
-            }
-        })
-        document.getElementById('btnPause').addEventListener('click', function (event) {
-            let text = document.getElementById('btnPause').innerText;
-            if (text == "继续") {
-                audio.play();
-                document.getElementById('btnPause').innerText = "暂停";
-            } else {
-                audio.pause();
-                document.getElementById('btnPause').innerText = "继续";
-            }
-        })
+    document.getElementById('btnAgain').addEventListener('click', function (event) {
+        localStorage.setItem(episode, '0');
+        location.reload();
+    });
 
-
-        // 正确的提示信息
-        function correctTip(arr2) {
-            console.log(errorCount);
-            if (errorCount <= 3) {
-                return;
-            }
-
-            let spans = document.querySelectorAll('#article-line-tip span');
-
-            let m = 5;
-            spans[0].innerText = arr2.join(' ');
-            spans[1].innerText = m;
-
-            // 倒计时
-            let timer = setInterval(() => {
-                m--;
-                spans[1].innerText = m;
-                if (m < 0) {
-                    clearInterval(timer);
-                    spans[0].innerText = '';
-                    spans[1].innerText = '';
-                }
-
-            }, 1000);
-
+    document.getElementById('btnPrev').addEventListener('click', function (event) {
+        if (index === 0) {
+            return;
         }
-    </script>
+        index--;
+        txtAnswer.value = '';
+        divErrorMsg.innerHTML = '';
+
+        divArticleLineNo.innerText = index + '/' + (data.length - 1);
+        divArticleLineZh.innerText = data[index].zh;
+    })
+
+    document.getElementById('btnNext').addEventListener('click', function (event) {
+        if (index > data.length - 1) {
+            return;
+        }
+        let answer = txtAnswer.value.trim();
+        if (!answer || answer === '') {
+            return;
+        }
+
+        // 用户输入的
+        let arr1 = answer.split(/\s+/g);
+        // 答案
+        let arr2 = data[index].en.split(/\s+/g);
+
+        // 比对结果
+        let arr3 = [];
+
+        for (let i = 0; i < arr1.length; i++) {
+            if (_.trim(arr1[i]) !== _.trim(arr2[i])) {
+                arr3.push('<span class="text-warning">' + arr1[i] + '</span>');
+            } else {
+                arr3.push(arr1[i]);
+            }
+        }
+
+        if (arr1.join(' ') !== arr2.join(' ')) {
+            divErrorMsg.innerHTML = arr3.join(' ');
+            errorCount++;
+            correctTip(data[index].en)
+            return;
+        }
+        index++;
+        console.log(index)
+        if (index >= data.length - 1) {
+            divArticleLineNo.innerText = '';
+            divArticleLineZh.innerText = '恭喜你已完成本集练习！！';
+            divArticleLineZh.focus();
+            return;
+        }
+        errorCount = 0;
+
+        localStorage.setItem(episode, index);
+        txtAnswer.value = '';
+        divErrorMsg.innerHTML = '';
+        divArticleLineNo.innerText = index + '/' + (data.length - 1);
+        divArticleLineZh.innerText = data[index].zh;
+
+        document.getElementById('article-line-tip').innerText = '';
+        txtAnswer.focus();
+        document.getElementById('btnPlay').click();
+    });
+    document.getElementById('btnPlay').addEventListener('click', function (event) {
+        let btnPlay = document.getElementById('btnPlay');
+        audio.currentTime = data[index].startTime;
+        setTimeout(() => {
+            audio.pause();
+        }, data[index].duration * 1000)
+        audio.play();
+    });
+
+    // 正确的提示信息
+    function correctTip(en) {
+        console.log(errorCount);
+        if (errorCount <= 3) {
+            return;
+        }
+
+        let div = document.getElementById('article-line-tip');
+        div.innerText = en;
+    }
+</script>
 </body>
 
 </html>
