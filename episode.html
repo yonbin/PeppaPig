@@ -36,12 +36,13 @@
 
 <script src="assets/bootstrap/js/bootstrap.bundle.js"></script>
 <script src="assets/js/lodash.min.js"></script>
-<script src="https://unpkg.com/hotkeys-js/dist/hotkeys.min.js"></script>
+<script src="assets/js/hotkeys.min.js"></script>
 <script type="module">
     // get url param
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
-    let episode = urlParams.get('e');
+    let episode = _.padStart(urlParams.get('e'),2, '0');
+    console.log(episode);
 
     let index = 0, data, errorCount = 0;
     // 本地缓存中读取记录

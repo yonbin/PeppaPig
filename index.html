@@ -22,7 +22,6 @@
     fetch("data/00.json")
         .then((res) => res.json())
         .then((json) => {
-            console.log(json)
             let html = '<div class="row row-cols-1 row-cols-md-4 g-4" >';
             for (let i = 0; i < json.length; i++) {
                 html += '<div class="col">';
