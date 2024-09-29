@@ -30,7 +30,6 @@
         <button type="button" id="btnPrev" class="btn btn-outline-primary">上一句</button>
         <button type="button" id="btnNext" class="btn btn-outline-primary">下一句</button>
         <a href="index.html" class="btn btn-outline-primary">返 回</a>
-        <button type="button" id="btnAgain" class="btn btn-outline-primary">重新学</button>
     </div>
 </div>
 
@@ -46,8 +45,8 @@
 
     let index = 0, data, errorCount = 0;
     // 本地缓存中读取记录
-    if (localStorage.getItem(episode) != null) {
-        index = localStorage.getItem(episode);
+    if (localStorage.getItem('s-' + episode) != null) {
+        index = localStorage.getItem('s-' + episode);
     }
     console.log(index);
     hotkeys.filter = function (event) {
@@ -85,11 +84,6 @@
             divArticleLineZh.innerText = data[index].zh;
         });
 
-    document.getElementById('btnAgain').addEventListener('click', function (event) {
-        localStorage.setItem(episode, '0');
-        location.reload();
-    });
-
     document.getElementById('btnPrev').addEventListener('click', function (event) {
         if (index === 0) {
             return;
@@ -113,9 +107,9 @@
         }
 
         // 用户输入的
-        let arr1 = _.split(_.trim(answer), ' ').filter(item => item!=='');
+        let arr1 = _.split(_.trim(answer), ' ').filter(item => item !== '');
         // 答案
-        let arr2 = _.split(_.trim(data[index].en), ' ').filter(item => item!=='');
+        let arr2 = _.split(_.trim(data[index].en), ' ').filter(item => item !== '');
 
         // 比对结果
         let arr3 = [];
@@ -138,13 +132,16 @@
         if (index >= data.length - 1) {
             divArticleLineNo.innerText = '';
             divArticleLineZh.innerText = '恭喜你已完成本集练习！！';
+            txtAnswer.value = '';
+            divErrorMsg.innerHTML = '';
             divArticleLineZh.focus();
-            localStorage.setItem(episode, index);
+            localStorage.setItem('s-' + episode, 0);
+            localStorage.setItem('e-' + episode, parseInt(localStorage.getItem('e-' + episode)) + 1);
             return;
         }
         errorCount = 0;
 
-        localStorage.setItem(episode, index);
+        localStorage.setItem('s-' + episode, index);
         txtAnswer.value = '';
         divErrorMsg.innerHTML = '';
         divArticleLineNo.innerText = index + '/' + (data.length - 1);

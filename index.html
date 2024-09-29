@@ -18,19 +18,38 @@
 </div>
 
 <script src="assets/bootstrap/js/bootstrap.bundle.js"></script>
+<script src="assets/js/lodash.min.js"></script>
 <script>
+    let reLearn = function (episode) {
+        localStorage.setItem('s-' + episode, '0');
+        location.reload();
+    }
     fetch("data/00.json")
         .then((res) => res.json())
         .then((json) => {
+
+
             let html = '<div class="row row-cols-1 row-cols-md-4 g-4" >';
             for (let i = 0; i < json.length; i++) {
+                let zh = json[i].split('|')[0];
+                let en = json[i].split('|')[1];
+
+                let episode = i + 1;
+                let count = 0;
+                let eEpisode = 'e-' + _.padStart(episode, 2, '0');
+                if (localStorage.getItem(eEpisode)) {
+                    count = localStorage.getItem(eEpisode);
+                }
+
+                let txt = count === 0 ? '未开始' : '已学 ' + count + ' 遍';
+
                 html += '<div class="col">';
                 html += '   <div class="card">';
                 html += '       <div class="card-body " style="height:100px;display:flex; justify-content: center;">';
-                html += '          <p class="card-text">' + json[i] + '</p>';
+                html += '          <a href="episode.html?e=' + episode + '" class="card-text">' + zh + '<br>' + en + '</a>';
                 html += '       </div>';
                 html += '       <div class="card-footer">'
-                html += '           <a href="episode.html?e=' + (i + 1) + '" class="card-link">去学习</a>';
+                html += '           <span style="margin-right: 10px;">' + txt + '</span>'
                 html += '       </div>';
                 html += '   </div>';
                 html += '</div>';
