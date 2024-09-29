@@ -41,7 +41,7 @@
     // get url param
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
-    let episode = _.padStart(urlParams.get('e'),2, '0');
+    let episode = _.padStart(urlParams.get('e'), 2, '0');
     console.log(episode);
 
     let index = 0, data, errorCount = 0;
@@ -95,6 +95,7 @@
             return;
         }
         index--;
+        console.log(index)
         txtAnswer.value = '';
         divErrorMsg.innerHTML = '';
 
@@ -112,9 +113,9 @@
         }
 
         // 用户输入的
-        let arr1 = answer.split(/\s+/g);
+        let arr1 = _.split(_.trim(answer), ' ').filter(item => item!=='');
         // 答案
-        let arr2 = data[index].en.split(/\s+/g);
+        let arr2 = _.split(_.trim(data[index].en), ' ').filter(item => item!=='');
 
         // 比对结果
         let arr3 = [];
@@ -134,11 +135,11 @@
             return;
         }
         index++;
-        console.log(index)
         if (index >= data.length - 1) {
             divArticleLineNo.innerText = '';
             divArticleLineZh.innerText = '恭喜你已完成本集练习！！';
             divArticleLineZh.focus();
+            localStorage.setItem(episode, index);
             return;
         }
         errorCount = 0;
