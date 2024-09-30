@@ -23,7 +23,7 @@
 - [x] 第 4 集 鹦鹉波利|Polly Parrot
 - [x] 第 5 集 捉迷藏|Hide and Seek
 - [x] 第 6 集 乔治第一天上幼儿园|The Playgroup
-- [ ] 第 7 集 猪妈妈在工作|Mummy Pig at work
+- [x] 第 7 集 猪妈妈在工作|Mummy Pig at work
 - [ ] 第 8 集 中间的小猪|Polly Parrot
 - [ ] 第 9 集 爸爸的眼镜不见了！|Daddy Loses his Glasses!
 - [ ] 第 10 集 花园种菜！|Gardening!

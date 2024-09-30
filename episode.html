@@ -68,6 +68,7 @@
 
     // audio
     const audio = document.createElement("audio");
+    audio.preload = 'auto';
     audio.src = "mp3/" + episode + ".mp3";
 
     let divArticleLineNo = document.getElementById('article-line-no');
@@ -136,7 +137,8 @@
             divErrorMsg.innerHTML = '';
             divArticleLineZh.focus();
             localStorage.setItem('s-' + episode, 0);
-            localStorage.setItem('e-' + episode, parseInt(localStorage.getItem('e-' + episode)) + 1);
+            let count = localStorage.getItem('e-' + episode) == null ? 1 : parseInt(localStorage.getItem('e-' + episode)) + 1
+            localStorage.setItem('e-' + episode, count);
             return;
         }
         errorCount = 0;
