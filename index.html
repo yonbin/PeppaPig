@@ -20,10 +20,7 @@
 <script src="assets/bootstrap/js/bootstrap.bundle.js"></script>
 <script src="assets/js/lodash.min.js"></script>
 <script>
-    let reLearn = function (episode) {
-        localStorage.setItem('s-' + episode, '0');
-        location.reload();
-    }
+
     fetch("data/00.json")
         .then((res) => res.json())
         .then((json) => {
@@ -46,7 +43,7 @@
                 html += '<div class="col">';
                 html += '   <div class="card">';
                 html += '       <div class="card-body " style="height:100px;display:flex; justify-content: center;">';
-                html += '          <a href="episode.html?e=' + episode + '" class="card-text">' + zh + '<br>' + en + '</a>';
+                html += '          <a href="episode.html?e=' + episode + '" class="link-body-emphasis link-offset-2 link-underline-opacity-25 link-underline-opacity-75-hover">' + zh + '<br>' + en + '</a>';
                 html += '       </div>';
                 html += '       <div class="card-footer">'
                 html += '           <span style="margin-right: 10px;">' + txt + '</span>'
