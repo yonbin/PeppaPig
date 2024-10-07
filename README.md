@@ -25,7 +25,7 @@
 - [x] 第 6 集 乔治第一天上幼儿园|The Playgroup
 - [x] 第 7 集 猪妈妈在工作|Mummy Pig at work
 - [x] 第 8 集 中间的小猪|Polly Parrot
-- [ ] 第 9 集 爸爸的眼镜不见了！|Daddy Loses his Glasses!
+- [x] 第 9 集 爸爸的眼镜不见了！|Daddy Loses his Glasses!
 - [ ] 第 10 集 花园种菜！|Gardening!
 - [ ] 第 11 集 打嗝！|Hiccups!
 - [x] 第 12 集 自行车！| Bicycles!
