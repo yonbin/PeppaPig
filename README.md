@@ -14,7 +14,7 @@
 
 上一句：`ctrl + ,`
 
-### 进度
+### 进度，15/52
 
 - [x] 第 1 集 泥坑|Muddy Puddles
 - [x] 第 2 集 恐龙先生不见了|Mr. Dinosaur is Lost
@@ -27,8 +27,9 @@
 - [x] 第 8 集 中间的小猪|Polly Parrot
 - [x] 第 9 集 爸爸的眼镜不见了！|Daddy Loses his Glasses!
 - [x] 第 10 集 花园种菜！|Gardening!
-- [ ] 第 11 集 打嗝！|Hiccups!
+- [x] 第 11 集 打嗝！|Hiccups!
 - [x] 第 12 集 自行车！| Bicycles!
 - [x] 第 13 集 秘密！| Secrets!
 - [x] 第 14 集 放风筝！| Flying a kite!
 - [x] 第 15 集 野餐！| Picnic!
+- [ ] 第16集乐器 | Musical Instruments
