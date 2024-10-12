@@ -34,6 +34,6 @@
 - [x] 第 15 集 野餐！| Picnic!
 - [x] 第 16 集 乐器 | Musical Instruments
 - [x] 第 17 集 青蛙小虫和蝴蝶！| Frogs and worms and Butterflies!
-- [ ] 第 18 集 装扮游戏!|Dressing Up!
+- [x] 第 18 集 装扮游戏!|Dressing Up!
 - [ ] 第 19 集 新鞋子！New Shoes!
 - [ ] 第 20 集 学校游园会！|The School Fete!
