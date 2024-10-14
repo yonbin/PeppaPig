@@ -1,0 +1,455 @@
+{
+    "title": "第 19 集 新鞋子！|New Shoes!",
+    "data": [
+        {
+            "zh": "新鞋子！",
+            "en": "New Shoes!",
+            "startTime": 19.645,
+            "duration": 1.934
+        },
+        {
+            "zh": "佩奇和乔治在花园里玩。",
+            "en": "Peppa and George have been playing in the garden.",
+            "startTime": 24.864,
+            "duration": 2.634
+        },
+        {
+            "zh": "佩奇，你的鞋子呢？",
+            "en": "Peppa, where are your shoes?",
+            "startTime": 30.971,
+            "duration": 2.594
+        },
+        {
+            "zh": "哦，我鞋子丢了。",
+            "en": "Oh, I've lost them.",
+            "startTime": 34.401,
+            "duration": 2.093
+        },
+        {
+            "zh": "好啦，我确信我们能找到的。",
+            "en": "Well, I'm sure we can find them.",
+            "startTime": 36.903,
+            "duration": 2.221
+        },
+        {
+            "zh": "也许我们试试到花园里找找？",
+            "en": "Maybe we should try the garden?",
+            "startTime": 39.663,
+            "duration": 2.626
+        },
+        {
+            "zh": "好的！",
+            "en": "Yes!",
+            "startTime": 42.642,
+            "duration": 1.058
+        },
+        {
+            "zh": "大家都在找佩奇的鞋子。",
+            "en": "Everyone is looking for Peppa's shoes.",
+            "startTime": 46.069,
+            "duration": 2.367
+        },
+        {
+            "zh": "猪妈妈在花坛里找。",
+            "en": "Mummy Pig is looking in the flowerbed.",
+            "startTime": 49.443,
+            "duration": 2.113
+        },
+        {
+            "zh": "佩奇的鞋子不在那里。",
+            "en": "Peppa's shoes are not there.",
+            "startTime": 51.843,
+            "duration": 1.675
+        },
+        {
+            "zh": "哦！",
+            "en": "Oh!",
+            "startTime": 53.559,
+            "duration": 0.796
+        },
+        {
+            "zh": "猪爸爸在手推车里找。",
+            "en": "Daddy Pig is looking in the wheelbarrow.",
+            "startTime": 54.994,
+            "duration": 2.189
+        },
+        {
+            "zh": "佩奇的鞋子不在那。",
+            "en": "Peppa's shoes are not there.",
+            "startTime": 57.249,
+            "duration": 1.763
+        },
+        {
+            "zh": "哦！",
+            "en": "Oh!",
+            "startTime": 59.292,
+            "duration": 0.864
+        },
+        {
+            "zh": "佩奇和乔治在花盆里找。",
+            "en": "Peppa and George look in the flowerpots.",
+            "startTime": 61.296,
+            "duration": 2.32
+        },
+        {
+            "zh": "佩奇的鞋子也不在那。",
+            "en": "Peppa's shoes are not there, either.",
+            "startTime": 64.283,
+            "duration": 1.791
+        },
+        {
+            "zh": "哦！哦！",
+            "en": "Oh! Oh!",
+            "startTime": 66.099,
+            "duration": 1.126
+        },
+        {
+            "zh": "我们已经到处找了，但是我们找不到佩奇的鞋子！",
+            "en": "We've looked everywhere, but we can't find Peppa's shoes!",
+            "startTime": 67.867,
+            "duration": 3.893
+        },
+        {
+            "zh": "佩奇的鞋子丢失了。",
+            "en": "Peppa's shoes are lost.",
+            "startTime": 71.94,
+            "duration": 1.873
+        },
+        {
+            "zh": "现在我没有鞋子穿了。",
+            "en": "Now I haven't got any shoes to wear.",
+            "startTime": 74.174,
+            "duration": 2.366
+        },
+        {
+            "zh": "可怜的佩奇。你的鞋子有点旧了。。。",
+            "en": "Poor Peppa. Your shoes were getting a bit old...",
+            "startTime": 76.963,
+            "duration": 3.42
+        },
+        {
+            "zh": "我们给你买双新鞋！",
+            "en": "We'll buy you a new pair!",
+            "startTime": 80.926,
+            "duration": 1.49
+        },
+        {
+            "zh": "妈妈，我的新鞋可以是红色的吗？",
+            "en": "Can my new shoes be red, Mummy?",
+            "startTime": 82.682,
+            "duration": 2.059
+        },
+        {
+            "zh": "当然可以啦。",
+            "en": "Of course, they can.",
+            "startTime": 84.91,
+            "duration": 1.653
+        },
+        {
+            "zh": "乔治！我有红色新鞋子穿了！",
+            "en": "George! I'm going to have new red shoes!",
+            "startTime": 86.652,
+            "duration": 3.784
+        },
+        {
+            "zh": "猪妈妈和佩奇来到兔小姐的鞋店里。",
+            "en": "Mummy Pig and Peppa are at Miss Rabbit's shoe shop.",
+            "startTime": 94.301,
+            "duration": 3.859
+        },
+        {
+            "zh": "你好，兔小姐。",
+            "en": "Hello, Miss Rabbit.",
+            "startTime": 98.198,
+            "duration": 0.932
+        },
+        {
+            "zh": "你好，猪妈妈。",
+            "en": "Hello, Mummy Pig.",
+            "startTime": 99.174,
+            "duration": 0.96
+        },
+        {
+            "zh": "我们想买双新鞋给佩奇。",
+            "en": "We would like to buy some new shoes for Peppa, please.",
+            "startTime": 100.5,
+            "duration": 2.99
+        },
+        {
+            "zh": "红色的鞋子！",
+            "en": "Red Shoes!",
+            "startTime": 103.68,
+            "duration": 1.296
+        },
+        {
+            "zh": "哦，佩奇，我确信我们能给你找一双漂亮的新鞋子！",
+            "en": "Oh I'm sure we can find you some lovely new shoes, Peppa!",
+            "startTime": 105.063,
+            "duration": 2.771
+        },
+        {
+            "zh": "红色的。",
+            "en": "Red ones, please.",
+            "startTime": 108.007,
+            "duration": 1.103
+        },
+        {
+            "zh": "没问题，红色的。",
+            "en": "Of course, red ones.",
+            "startTime": 110.396,
+            "duration": 2.327
+        },
+        {
+            "zh": "哇！红色的新鞋子！",
+            "en": "Wow! New red shoes!",
+            "startTime": 113.146,
+            "duration": 6.701
+        },
+        {
+            "zh": "乔治和猪爸爸在下跳棋。",
+            "en": "George and Daddy Pig are playing draughts.",
+            "startTime": 124.663,
+            "duration": 2.507
+        },
+        {
+            "zh": "哦，做得好，乔治。",
+            "en": "Oh, well done, George.",
+            "startTime": 128.027,
+            "duration": 2.491
+        },
+        {
+            "zh": "爸爸！爸爸！",
+            "en": "Daddy! Daddy!",
+            "startTime": 130.663,
+            "duration": 0.864
+        },
+        {
+            "zh": "看看我的新鞋子！是红色的！",
+            "en": "Look at my new shoes! They are red!",
+            "startTime": 132.799,
+            "duration": 3.057
+        },
+        {
+            "zh": "我看到了！是红色的。",
+            "en": "I see! They are red.",
+            "startTime": 136.036,
+            "duration": 2.254
+        },
+        {
+            "zh": "妈妈，你喜欢我的新鞋子吗？",
+            "en": "Mummy, do you like my new shoes?",
+            "startTime": 138.738,
+            "duration": 2.045
+        },
+        {
+            "zh": "是的，佩奇，他们让你看起来很漂亮。",
+            "en": "Yes, Peppa, they make you look very smart.",
+            "startTime": 140.94,
+            "duration": 2.992
+        },
+        {
+            "zh": "乔治，你喜欢我的新鞋子吗？",
+            "en": "George, do you like my new shoes?",
+            "startTime": 144.677,
+            "duration": 2.619
+        },
+        {
+            "zh": "大家都喜欢佩奇的新鞋子。",
+            "en": "Everyone likes Peppa's new shoes.",
+            "startTime": 149.315,
+            "duration": 2.241
+        },
+        {
+            "zh": "我太喜欢我的新鞋子了。",
+            "en": "I like my new shoes so much.",
+            "startTime": 151.596,
+            "duration": 2.44
+        },
+        {
+            "zh": "我永远都不想把它脱下来。",
+            "en": "I don't want to ever take them off.",
+            "startTime": 154.061,
+            "duration": 2.323
+        },
+        {
+            "zh": "洗澡时间到了。",
+            "en": "It is bath time.",
+            "startTime": 159.846,
+            "duration": 1.297
+        },
+        {
+            "zh": "即使是洗澡，佩奇也不想脱下新鞋子。",
+            "en": "Peppa wants to keep her new shoes on, even for her bath.",
+            "startTime": 161.62,
+            "duration": 3.053
+        },
+        {
+            "zh": "佩奇穿着睡衣。",
+            "en": "Peppa is in her pajamas.",
+            "startTime": 167.96,
+            "duration": 1.734
+        },
+        {
+            "zh": "但她仍然穿着新鞋子。",
+            "en": "She still has her new shoes on.",
+            "startTime": 169.969,
+            "duration": 1.807
+        },
+        {
+            "zh": "佩奇甚至还穿着新鞋子睡觉！",
+            "en": "Peppa even wants to wear her new shoes in bed!",
+            "startTime": 174.943,
+            "duration": 3.007
+        },
+        {
+            "zh": "佩奇，你确定你不想脱下你的鞋子？",
+            "en": "Peppa, are you sure you don't want to take your shoes off?",
+            "startTime": 178.144,
+            "duration": 2.912
+        },
+        {
+            "zh": "妈妈，我永远也不想脱下我的新鞋子。",
+            "en": "I don't want to ever take my new shoes off, Mummy.",
+            "startTime": 181.147,
+            "duration": 3.189
+        },
+        {
+            "zh": "那好吧。晚安，佩奇和乔治。",
+            "en": "Very well. Goodnight, Peppa and George.",
+            "startTime": 184.496,
+            "duration": 2.84
+        },
+        {
+            "zh": "晚安，妈妈！晚安，爸爸！",
+            "en": "Goodnight, Mummy! Goodnight, Daddy",
+            "startTime": 190.924,
+            "duration": 2.935
+        },
+        {
+            "zh": "晚安，我的小猪们！",
+            "en": "Goodnight, my little piggies!",
+            "startTime": 194.594,
+            "duration": 1.991
+        },
+        {
+            "zh": "下了一整夜的雨现在花园很潮湿。",
+            "en": "It has been raining all night",
+            "startTime": 201.143,
+            "duration": 1.458
+        },
+        {
+            "zh": "猪妈妈穿着她的靴子。",
+            "en": "and now the garden is very wet.",
+            "startTime": 202.87,
+            "duration": 1.813
+        },
+        {
+            "zh": "猪妈妈穿着她的靴子。",
+            "en": "Mummy Pig is wearing her boots.",
+            "startTime": 205.576,
+            "duration": 1.58
+        },
+        {
+            "zh": "猪爸爸穿着他的靴子。",
+            "en": "Daddy Pig is wearing his boots.",
+            "startTime": 207.53,
+            "duration": 1.733
+        },
+        {
+            "zh": "乔治也穿着他的靴子。",
+            "en": "George is wearing his boots.",
+            "startTime": 209.609,
+            "duration": 2.02
+        },
+        {
+            "zh": "佩奇仍然穿着她的红色新鞋子。",
+            "en": "Peppa is still wearing her new red shoes.",
+            "startTime": 212.022,
+            "duration": 2.488
+        },
+        {
+            "zh": "乔治在潮湿的草丛里玩。",
+            "en": "George is going to play in the wet grass.",
+            "startTime": 216.555,
+            "duration": 1.947
+        },
+        {
+            "zh": "哦，糟糕了。佩奇喜欢在潮湿的草丛里玩。",
+            "en": "Oh, dear. Peppa loves playing in the wet grass,",
+            "startTime": 221.207,
+            "duration": 2.84
+        },
+        {
+            "zh": "但是她不想把新鞋子弄湿。",
+            "en": "but she doesn't want to get her new shoes wet.",
+            "startTime": 224.072,
+            "duration": 2.295
+        },
+        {
+            "zh": "乔治，我不能在潮湿的草丛里玩。",
+            "en": "I can't play in the wet grass, George.",
+            "startTime": 226.693,
+            "duration": 2.914
+        },
+        {
+            "zh": "哦。",
+            "en": "Oh.",
+            "startTime": 229.896,
+            "duration": 0.728
+        },
+        {
+            "zh": "乔治喜欢在泥坑里跳。",
+            "en": "George loves jumping in muddy puddles.",
+            "startTime": 233.402,
+            "duration": 2.16
+        },
+        {
+            "zh": "佩奇也喜欢在泥坑里跳，",
+            "en": "Peppa loves jumping in puddles,",
+            "startTime": 237.537,
+            "duration": 1.797
+        },
+        {
+            "zh": "但她不想新鞋子粘上泥。",
+            "en": "but she doesn't want to get her new shoes muddy.",
+            "startTime": 239.359,
+            "duration": 2.451
+        },
+        {
+            "zh": "哦。",
+            "en": "Oh.",
+            "startTime": 241.975,
+            "duration": 0.796
+        },
+        {
+            "zh": "妈妈和爸爸喜欢在泥坑里跳来跳去！",
+            "en": "Mummy and Daddy love jumping up and down in muddy puddles!",
+            "startTime": 243.51,
+            "duration": 3.053
+        },
+        {
+            "zh": "大家都喜欢在泥坑里跳来跳去！",
+            "en": "Everyone likes jumping in muddy puddles!",
+            "startTime": 246.792,
+            "duration": 2.188
+        },
+        {
+            "zh": "佩奇要去哪？",
+            "en": "where is Peppa going?",
+            "startTime": 251.752,
+            "duration": 1.288
+        },
+        {
+            "zh": "佩奇穿上了她的靴子！",
+            "en": "Peppa is putting on her boots!",
+            "startTime": 256.729,
+            "duration": 2.386
+        },
+        {
+            "zh": "如果你在泥坑里跳，你必须要穿上你的靴子！",
+            "en": "If you jump in muddy puddles, you must wear your boots!",
+            "startTime": 272.572,
+            "duration": 4.404
+        }
+    ]
+}
