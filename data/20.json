@@ -1,0 +1,527 @@
+{
+    "title": "第 20 集 学校游园会！|The School Fete!",
+    "data": [
+        {
+            "zh": "学校游园会！",
+            "en": "The School Fete!",
+            "startTime": 18.222,
+            "duration": 1.787
+        },
+        {
+            "zh": "今天是学校的游园会。",
+            "en": "Today is the day of the school fete.",
+            "startTime": 21.147,
+            "duration": 2.387
+        },
+        {
+            "zh": "佩奇喜欢去游园会。",
+            "en": "Peppa loves coming to the fete.",
+            "startTime": 24.001,
+            "duration": 1.64
+        },
+        {
+            "zh": "这是佩奇的朋友，小猫凯迪，小羊苏茜，小狗丹尼，小兔瑞贝卡和小马佩德罗。",
+            "en": "Here are Peppa's friends, Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit and Pedro Pony.",
+            "startTime": 25.779,
+            "duration": 6.533
+        },
+        {
+            "zh": "大家好啊！",
+            "en": "Hello, everyone!",
+            "startTime": 32.392,
+            "duration": 1.153
+        },
+        {
+            "zh": "佩奇，你好啊！",
+            "en": "Hello, Peppa!",
+            "startTime": 33.999,
+            "duration": 1.297
+        },
+        {
+            "zh": "我喜欢学校游园会！",
+            "en": "I love the school fete!",
+            "startTime": 36.757,
+            "duration": 2.088
+        },
+        {
+            "zh": "我也是！你最喜欢玩什么呢？",
+            "en": "Me, too! What do you like best?",
+            "startTime": 38.931,
+            "duration": 2.599
+        },
+        {
+            "zh": "在脸上画画！",
+            "en": "The face painting!",
+            "startTime": 42.441,
+            "duration": 1.496
+        },
+        {
+            "zh": "我喜欢气球！",
+            "en": "I like the balloons!",
+            "startTime": 45.284,
+            "duration": 1.793
+        },
+        {
+            "zh": "我最喜欢那个冲气城堡了！",
+            "en": "I like the bouncy castle the best!",
+            "startTime": 48.412,
+            "duration": 2.514
+        },
+        {
+            "zh": "每一样我都喜欢！",
+            "en": "I like everything!",
+            "startTime": 51.357,
+            "duration": 1.689
+        },
+        {
+            "zh": "很好的选择，佩奇！",
+            "en": "A very good choice, Peppa!",
+            "startTime": 55.211,
+            "duration": 1.847
+        },
+        {
+            "zh": "一会见，佩奇！",
+            "en": "See you later, Peppa!",
+            "startTime": 57.785,
+            "duration": 1.36
+        },
+        {
+            "zh": "一会见！",
+            "en": "See you later!",
+            "startTime": 59.518,
+            "duration": 1.3
+        },
+        {
+            "zh": "乔治，你最喜欢玩什么呢？",
+            "en": "George, What do you like best?",
+            "startTime": 61.192,
+            "duration": 2.386
+        },
+        {
+            "zh": "恐龙。",
+            "en": "Dinosaur.",
+            "startTime": 63.911,
+            "duration": 1.307
+        },
+        {
+            "zh": "哦，天啊，乔治，游园会里没有恐龙的。",
+            "en": "Oh, dear, there aren't any dinosaurs at the fete, George.",
+            "startTime": 66.932,
+            "duration": 3.633
+        },
+        {
+            "zh": "也许我们可以找个恐龙气球。",
+            "en": "Maybe we can get you a dinosaur balloon.",
+            "startTime": 70.606,
+            "duration": 2.64
+        },
+        {
+            "zh": "你确定他们有恐龙气球，猪爸爸？",
+            "en": "Are you sure they have dinosaur balloons, Daddy Pig?",
+            "startTime": 73.366,
+            "duration": 3.2
+        },
+        {
+            "zh": "我当然确定。",
+            "en": "I'm certain of it.",
+            "startTime": 76.749,
+            "duration": 1.365
+        },
+        {
+            "zh": "乔治和我能先去在脸上画画吗？",
+            "en": "Can George and I get our faces painted first?",
+            "startTime": 78.894,
+            "duration": 3.145
+        },
+        {
+            "zh": "当然。",
+            "en": "Of course.",
+            "startTime": 82.114,
+            "duration": 0.898
+        },
+        {
+            "zh": "兔小姐把佩奇的朋友都画成了老虎！",
+            "en": "Miss Rabbit has painted Peppa's friends as tigers!",
+            "startTime": 84.918,
+            "duration": 3.125
+        },
+        {
+            "zh": "画好了，苏茜！",
+            "en": "There you are, Suzy!",
+            "startTime": 88.114,
+            "duration": 1.319
+        },
+        {
+            "zh": "现在你看起来像只老虎！",
+            "en": "Now you look like a tiger!",
+            "startTime": 89.59,
+            "duration": 1.743
+        },
+        {
+            "zh": "谢谢您，兔小姐！",
+            "en": "Thank you, Miss Rabbit!",
+            "startTime": 91.39,
+            "duration": 1.365
+        },
+        {
+            "zh": "哇！我喜欢你的脸，苏茜。",
+            "en": "WoW! I like your face, Suzy.",
+            "startTime": 96.008,
+            "duration": 3.479
+        },
+        {
+            "zh": "你画的是小猫吗？",
+            "en": "Are you a pussycat?",
+            "startTime": 99.574,
+            "duration": 1.26
+        },
+        {
+            "zh": "不！我是一只老虎！",
+            "en": "No! I'm a tiger!",
+            "startTime": 101.113,
+            "duration": 2.141
+        },
+        {
+            "zh": "佩奇，你想在脸上画画吗？",
+            "en": "Peppa, Would you like your face painted?",
+            "startTime": 104.236,
+            "duration": 2.533
+        },
+        {
+            "zh": "是的。我可以画大象吗？",
+            "en": "Yes, please. Can I be an elephant?",
+            "startTime": 106.849,
+            "duration": 4.014
+        },
+        {
+            "zh": "哦，天啊，我不知道怎么画大象。",
+            "en": "Oh, dear, I don't know how to do elephants.",
+            "startTime": 110.976,
+            "duration": 2.546
+        },
+        {
+            "zh": "但我会画老虎！",
+            "en": "I can do tigers!",
+            "startTime": 113.655,
+            "duration": 1.421
+        },
+        {
+            "zh": "好的，请画老虎吧！",
+            "en": "Yes, a tiger, please!",
+            "startTime": 116.415,
+            "duration": 1.928
+        },
+        {
+            "zh": "好了，佩奇，现在你是一只老虎了！",
+            "en": "There you are, Peppa, now you're a tiger!",
+            "startTime": 118.957,
+            "duration": 2.934
+        },
+        {
+            "zh": "我是一只老虎！",
+            "en": "I'm a tiger!",
+            "startTime": 122.011,
+            "duration": 1.9
+        },
+        {
+            "zh": "乔治，你想画什么呢？",
+            "en": "George, what would you like to be?",
+            "startTime": 124.837,
+            "duration": 2.167
+        },
+        {
+            "zh": "恐龙！",
+            "en": "Dinosaur!",
+            "startTime": 127.172,
+            "duration": 0.989
+        },
+        {
+            "zh": "恐龙？呃，改画一只老虎，怎样？",
+            "en": "A dinosaur? Er, how about a tiger instead?",
+            "startTime": 129.843,
+            "duration": 3.7
+        },
+        {
+            "zh": "我善于画老虎。",
+            "en": "I'm good at tigers.",
+            "startTime": 133.578,
+            "duration": 1.485
+        },
+        {
+            "zh": "我是一只老虎！",
+            "en": "I'm a tiger!",
+            "startTime": 137.282,
+            "duration": 0.927
+        },
+        {
+            "zh": "我也是！汪！汪！",
+            "en": "So am I! Woof! Woof!",
+            "startTime": 139.002,
+            "duration": 1.46
+        },
+        {
+            "zh": "老虎不会叫“汪！汪！”",
+            "en": "Tigers don't say, ''Woof! Woof!''",
+            "startTime": 141.362,
+            "duration": 2.226
+        },
+        {
+            "zh": "你怎么知道的？",
+            "en": "How do you know?",
+            "startTime": 143.686,
+            "duration": 1.362
+        },
+        {
+            "zh": "因为老虎是大猫。",
+            "en": "Because tigers are big cats.",
+            "startTime": 145.335,
+            "duration": 2.207
+        },
+        {
+            "zh": "而我是一只猫！",
+            "en": "And I'm a cat!",
+            "startTime": 148.275,
+            "duration": 1.453
+        },
+        {
+            "zh": "凯迪，你能教我们怎么扮做老虎吗？",
+            "en": "Candy, please, can you teach us how to be tigers?",
+            "startTime": 149.775,
+            "duration": 3.58
+        },
+        {
+            "zh": "好的！老虎走得非常非常地慢，",
+            "en": "Okay! Tigers creep very, very slowly,",
+            "startTime": 153.535,
+            "duration": 4.426
+        },
+        {
+            "zh": "然后，他们会跳起来！",
+            "en": "and then, they jump! Grrrr!",
+            "startTime": 157.986,
+            "duration": 2.829
+        },
+        {
+            "zh": "老虎喜欢把自己舔干净。",
+            "en": "Tigers like to lick themselves clean.",
+            "startTime": 165.09,
+            "duration": 4.06
+        },
+        {
+            "zh": "但是，最棒的是，当老虎高兴了他们会发出咕噜声。",
+            "en": "But, best of all, when tigers are happy they purr.",
+            "startTime": 170.424,
+            "duration": 3.54
+        },
+        {
+            "zh": "孩子们好啊。我的天啊！",
+            "en": "Hello, children. My goodness!",
+            "startTime": 178.703,
+            "duration": 2.547
+        },
+        {
+            "zh": "你们都变成了老虎了！",
+            "en": "You're all tigers!",
+            "startTime": 181.41,
+            "duration": 1.487
+        },
+        {
+            "zh": "我还在教他们怎么做一只老虎。",
+            "en": "And I'm teaching them to be proper tigers.",
+            "startTime": 183.003,
+            "duration": 3.407
+        },
+        {
+            "zh": "那接下来你们这些小老虎们想做什么呢？",
+            "en": "What do you little tigers want to do next?",
+            "startTime": 188.537,
+            "duration": 2.195
+        },
+        {
+            "zh": "恐龙！",
+            "en": "Dinosaur!",
+            "startTime": 191.343,
+            "duration": 1.126
+        },
+        {
+            "zh": "说得对！我们得帮乔治找个恐龙气球！",
+            "en": "That's right! We have to find George a dinosaur balloon!",
+            "startTime": 192.6,
+            "duration": 3.427
+        },
+        {
+            "zh": "你们每个都会得到气球的！",
+            "en": "Let's get you all balloons!",
+            "startTime": 197.631,
+            "duration": 1.729
+        },
+        {
+            "zh": "好耶！",
+            "en": "Hurray!",
+            "startTime": 199.385,
+            "duration": 1.433
+        },
+        {
+            "zh": "你好，羚羊女士！",
+            "en": "Hello, Madame Gazelle!",
+            "startTime": 202.402,
+            "duration": 1.728
+        },
+        {
+            "zh": "请给我们些气球。",
+            "en": "We'd like some balloons, please.",
+            "startTime": 204.33,
+            "duration": 1.906
+        },
+        {
+            "zh": "当然可以！我有很多不同的气球。",
+            "en": "Certainly! I've got lots of different ones.",
+            "startTime": 206.261,
+            "duration": 3.088
+        },
+        {
+            "zh": "我能要一个大象气球吗？",
+            "en": "Can I have an elephant balloon? Please!",
+            "startTime": 209.528,
+            "duration": 2.188
+        },
+        {
+            "zh": "给你，佩奇！",
+            "en": "Here you are, Peppa!",
+            "startTime": 211.822,
+            "duration": 1.687
+        },
+        {
+            "zh": "我能要一个袋鼠气球吗？",
+            "en": "Can I have a kangaroo?",
+            "startTime": 213.68,
+            "duration": 1.782
+        },
+        {
+            "zh": "请给我一个狮子气球！",
+            "en": "A lion, please!",
+            "startTime": 215.587,
+            "duration": 1.599
+        },
+        {
+            "zh": "请给我一个猴子气球！",
+            "en": "A monkey, please!",
+            "startTime": 217.253,
+            "duration": 1.307
+        },
+        {
+            "zh": "请给我一个鹦鹉气球！",
+            "en": "A parrot, please!",
+            "startTime": 218.636,
+            "duration": 1.524
+        },
+        {
+            "zh": "是的，这些我都有！",
+            "en": "Yes, I've got all those!",
+            "startTime": 220.578,
+            "duration": 2.355
+        },
+        {
+            "zh": "最重要的是，我们要给乔治一个恐龙气球。",
+            "en": "Most important of all, We need a dinosaur balloon for George.",
+            "startTime": 223.356,
+            "duration": 5.206
+        },
+        {
+            "zh": "哦，天啊，我好像没有恐龙气球。",
+            "en": "Oh, dear, I do not seem to have any dinosaur balloons.",
+            "startTime": 228.741,
+            "duration": 4.846
+        },
+        {
+            "zh": "哦。",
+            "en": "Oh.",
+            "startTime": 233.992,
+            "duration": 0.762
+        },
+        {
+            "zh": "别担心，乔治。我有主意。",
+            "en": "Don't worry, George. I've got an idea.",
+            "startTime": 238.843,
+            "duration": 2.54
+        },
+        {
+            "zh": "请给我们两个长气球。",
+            "en": "Could we have two of the long balloons, please?",
+            "startTime": 241.497,
+            "duration": 2.526
+        },
+        {
+            "zh": "大家看好哦！",
+            "en": "Watch this, everybody!",
+            "startTime": 244.83,
+            "duration": 1.72
+        },
+        {
+            "zh": "猪爸爸打算怎样摆弄气球呢？",
+            "en": "What is Daddy Pig doing with the balloons?",
+            "startTime": 247.58,
+            "duration": 2.966
+        },
+        {
+            "zh": "好了！大家能猜猜这是什么？",
+            "en": "There! Can anyone guess what it is?",
+            "startTime": 252.284,
+            "duration": 2.796
+        },
+        {
+            "zh": "是袋鼠吗？",
+            "en": "Is it a kangaroo?",
+            "startTime": 255.527,
+            "duration": 1.776
+        },
+        {
+            "zh": "不，它是一只。。。",
+            "en": "No, it's a...",
+            "startTime": 258.023,
+            "duration": 2.027
+        },
+        {
+            "zh": "恐龙！",
+            "en": "Dinosaur!",
+            "startTime": 260.083,
+            "duration": 1.368
+        },
+        {
+            "zh": "说得没错，是一只恐龙！",
+            "en": "That's right, a dinosaur!",
+            "startTime": 261.476,
+            "duration": 2.353
+        },
+        {
+            "zh": "猪爸爸做了一只恐龙气球。",
+            "en": "Daddy Pig has made a balloon dinosaur.",
+            "startTime": 263.982,
+            "duration": 2.267
+        },
+        {
+            "zh": "现在，到冲气城堡去！",
+            "en": "Now, the bouncy castle!",
+            "startTime": 269.801,
+            "duration": 1.58
+        },
+        {
+            "zh": "佩奇喜欢在冲气城堡上玩！",
+            "en": "Peppa loves bouncing on the bouncy castle.",
+            "startTime": 275.241,
+            "duration": 2.634
+        },
+        {
+            "zh": "大家都喜欢在冲气城堡上玩！",
+            "en": "Everyone loves bouncing on the bouncy castle!",
+            "startTime": 278.845,
+            "duration": 2.893
+        },
+        {
+            "zh": "这是最棒的学校游园会了！",
+            "en": "This is the best school fete, ever!",
+            "startTime": 281.781,
+            "duration": 3.004
+        }
+    ]
+}

@@ -36,4 +36,9 @@
 - [x] 第 17 集 青蛙小虫和蝴蝶！| Frogs and worms and Butterflies!
 - [x] 第 18 集 装扮游戏!|Dressing Up!
 - [x] 第 19 集 新鞋子！New Shoes!
-- [ ] 第 20 集 学校游园会！|The School Fete!
+- [x] 第 20 集 学校游园会！ | The School Fete!
+- [ ] 第 21 集 猪妈妈的生日 | Pig's Birthday
+- [ ] 第 22 集 牙仙子 | The Tooth Fairy
+- [ ] 第 23 集 新车 | The New Car
+- [ ] 第 24 集 寻宝 | Treasure Hunt
+- [ ] 第 25 集 不太好 | Not Very well
