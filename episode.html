@@ -135,6 +135,7 @@
             divArticleLineZh.innerText = '恭喜你已完成本集练习！！';
             txtAnswer.value = '';
             divErrorMsg.innerHTML = '';
+            document.getElementById('article-line-tip').innerText='';
             divArticleLineZh.focus();
             localStorage.setItem('s-' + episode, 0);
             let count = localStorage.getItem('e-' + episode) == null ? 1 : parseInt(localStorage.getItem('e-' + episode)) + 1
