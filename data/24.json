@@ -1,0 +1,479 @@
+{
+    "title": "第 24 集 寻宝！|Treasure Hunt!",
+    "data": [
+        {
+            "zh": "寻宝！",
+            "en": "Treasure Hunt!",
+            "startTime": 19.584,
+            "duration": 2.457
+        },
+        {
+            "zh": "猪奶奶和猪爷爷正在给佩奇和乔治准备寻宝游戏。",
+            "en": "Granny Pig and Grandpa Pig are making a treasure hunt for Peppa and Geroge.",
+            "startTime": 23.483,
+            "duration": 4.067
+        },
+        {
+            "zh": "猪奶奶在画藏宝图。",
+            "en": "Granny Pig is drawing the treasure map.",
+            "startTime": 27.843,
+            "duration": 2.022
+        },
+        {
+            "zh": "猪爷爷正在将宝藏藏在花园里的一个秘密地点。",
+            "en": "Grandpa Pig is burying the treasure in a secret place in the garden.",
+            "startTime": 32.331,
+            "duration": 4.272
+        },
+        {
+            "zh": "猪爷爷！你藏好了吗？",
+            "en": "Grandpa Pig! Have you finished?!",
+            "startTime": 37.269,
+            "duration": 2.969
+        },
+        {
+            "zh": "佩奇和乔治很快就来这了！",
+            "en": "Peppa and George will be here soon!",
+            "startTime": 40.423,
+            "duration": 2.406
+        },
+        {
+            "zh": "不要慌张，猪奶奶！",
+            "en": "No need to panic, Granny Pig!",
+            "startTime": 43.761,
+            "duration": 3.068
+        },
+        {
+            "zh": "佩奇和乔治来了！",
+            "en": "Peppa and her family are here!",
+            "startTime": 47.86,
+            "duration": 1.388
+        },
+        {
+            "zh": "快点，猪爷爷！他们到了！",
+            "en": "Quick, Grandpa Pig! They're here!",
+            "startTime": 49.321,
+            "duration": 3.459
+        },
+        {
+            "zh": "快好了！",
+            "en": "Almost done!",
+            "startTime": 53.351,
+            "duration": 1.609
+        },
+        {
+            "zh": "猪爷爷刚好及时完成！",
+            "en": "Grandpa Pig just finished in time!",
+            "startTime": 58.336,
+            "duration": 2.88
+        },
+        {
+            "zh": "奶奶！我们来了！",
+            "en": "Granny Pig! We're here!",
+            "startTime": 61.656,
+            "duration": 2.62
+        },
+        {
+            "zh": "你们好啊，我的小可爱们！",
+            "en": "Hello, my Little ones!",
+            "startTime": 65.563,
+            "duration": 2.087
+        },
+        {
+            "zh": "爷爷！",
+            "en": "Grandpa Pig!",
+            "startTime": 67.872,
+            "duration": 1.218
+        },
+        {
+            "zh": "你们好，我的宝贝们！",
+            "en": "Ahoy there, me hearties!",
+            "startTime": 70.741,
+            "duration": 2.613
+        },
+        {
+            "zh": "佩奇，乔治，我们给你们准备了寻宝活动！",
+            "en": "Peppa, George, we've made you a treasure hunt!",
+            "startTime": 73.604,
+            "duration": 3.857
+        },
+        {
+            "zh": "花园里的某个地方藏了宝藏哦！",
+            "en": "Somewhere in the garden is buried treasure!",
+            "startTime": 77.856,
+            "duration": 3.768
+        },
+        {
+            "zh": "哇！宝藏！它在哪？",
+            "en": "Wow! Treasure! Where is it?",
+            "startTime": 81.826,
+            "duration": 4.31
+        },
+        {
+            "zh": "你得自己去找。",
+            "en": "You have to look for it.",
+            "startTime": 86.476,
+            "duration": 2.326
+        },
+        {
+            "zh": "这是给佩奇的寻宝图。",
+            "en": "Here's a treasure map for Peppa.",
+            "startTime": 89.153,
+            "duration": 2.243
+        },
+        {
+            "zh": "乔治可以戴上我的海盗帽。",
+            "en": "And George can wear my pirate hat.",
+            "startTime": 91.63,
+            "duration": 3.037
+        },
+        {
+            "zh": "你好啊，乔治船长！",
+            "en": "Ahoy there, Captain George!",
+            "startTime": 95.196,
+            "duration": 2.7
+        },
+        {
+            "zh": "这个地图有点难懂。",
+            "en": "The map is a bit difficult.",
+            "startTime": 100.277,
+            "duration": 2.041
+        },
+        {
+            "zh": "爸爸，你能帮忙吗？",
+            "en": "Daddy, can you help?",
+            "startTime": 102.777,
+            "duration": 1.334
+        },
+        {
+            "zh": "当然可以，佩奇。我很擅长看地图的。",
+            "en": "Of course, Peppa. I'm very good with maps.",
+            "startTime": 104.481,
+            "duration": 2.616
+        },
+        {
+            "zh": "呃。确实有点难懂。",
+            "en": "Er. It is a bit difficult.",
+            "startTime": 108.126,
+            "duration": 2.616
+        },
+        {
+            "zh": "猪爸爸，你把地图拿反了！",
+            "en": "Daddy Pig, you're holding the map upside down!",
+            "startTime": 111.429,
+            "duration": 4.18
+        },
+        {
+            "zh": "是的，我想是的。",
+            "en": "Yes, I thought as much.",
+            "startTime": 116.247,
+            "duration": 1.522
+        },
+        {
+            "zh": "太简单了！红色叉的地方就是宝藏的地方！",
+            "en": "It's easy! The red cross shows where the treasure is!",
+            "startTime": 119.123,
+            "duration": 4.793
+        },
+        {
+            "zh": "但是花园的什么地方有两棵苹果树呢？",
+            "en": "But where in the garden are those two apple trees?",
+            "startTime": 123.941,
+            "duration": 2.872
+        },
+        {
+            "zh": "嗯。。。我不知道。",
+            "en": "Hmmm... I don't know.",
+            "startTime": 126.972,
+            "duration": 2.525
+        },
+        {
+            "zh": "你需要一点提示吗？",
+            "en": "Would you like a clue?",
+            "startTime": 129.808,
+            "duration": 1.522
+        },
+        {
+            "zh": "需要！",
+            "en": "Yes, please!",
+            "startTime": 131.355,
+            "duration": 1.581
+        },
+        {
+            "zh": "第一个提示在一个瓶子里。",
+            "en": "The first clue is in a bottle.",
+            "startTime": 133.163,
+            "duration": 2.699
+        },
+        {
+            "zh": "但是瓶子在哪呢？",
+            "en": "But where is the bottle?",
+            "startTime": 136.313,
+            "duration": 1.979
+        },
+        {
+            "zh": "我看到了！",
+            "en": "I can see it!",
+            "startTime": 138.956,
+            "duration": 1.633
+        },
+        {
+            "zh": "佩奇找到了第一个提示了。",
+            "en": "Peppa has found the first clue.",
+            "startTime": 145.497,
+            "duration": 1.661
+        },
+        {
+            "zh": "装在瓶子里的纸条。",
+            "en": "A message in a bottle.",
+            "startTime": 147.512,
+            "duration": 1.012
+        },
+        {
+            "zh": "大家看！这里有个瓶子！",
+            "en": "Look, everyone! Here's the bottle!",
+            "startTime": 149.076,
+            "duration": 2.651
+        },
+        {
+            "zh": "做得好，佩奇！",
+            "en": "Well done, Peppa!",
+            "startTime": 151.863,
+            "duration": 1.64
+        },
+        {
+            "zh": "让我们看看纸条上说什么。",
+            "en": "Let's see what the message says.",
+            "startTime": 153.903,
+            "duration": 2.546
+        },
+        {
+            "zh": "哦，它是来自海盗的纸条！",
+            "en": "Oh it's a message from a pirate!",
+            "startTime": 157.083,
+            "duration": 3.039
+        },
+        {
+            "zh": "妈妈？你能帮我念一下海盗纸条吗？",
+            "en": "Mummy? Can you read the pirate's message?",
+            "startTime": 160.183,
+            "duration": 3.386
+        },
+        {
+            "zh": "嗯。。。这个海盗的字写得真难看。",
+            "en": "Hmm... This pirate has very bad handwriting.",
+            "startTime": 163.949,
+            "duration": 3.606
+        },
+        {
+            "zh": "海盗的字写得挺不错的。",
+            "en": "The pirate's handwriting is excellent.",
+            "startTime": 167.966,
+            "duration": 2.773
+        },
+        {
+            "zh": "不，我一个字都看不懂。",
+            "en": "No, I can't make it out at all.",
+            "startTime": 171.163,
+            "duration": 1.945
+        },
+        {
+            "zh": "海盗写得很清楚，“跟着箭头走！”",
+            "en": "The pirate has clearly written, \"Follow the arrows!\"",
+            "startTime": 173.133,
+            "duration": 3.205
+        },
+        {
+            "zh": "跟着箭头走？",
+            "en": "Follow the arrows?",
+            "startTime": 176.935,
+            "duration": 1.809
+        },
+        {
+            "zh": "乔治找到了第二个提示！",
+            "en": "George has found the second clue!",
+            "startTime": 180.27,
+            "duration": 1.945
+        },
+        {
+            "zh": "摆成箭头形状的棍子！",
+            "en": "Sticks in the shape of an arrow!",
+            "startTime": 182.24,
+            "duration": 1.878
+        },
+        {
+            "zh": "看！它们指向这边！",
+            "en": "Look! They point this way!",
+            "startTime": 184.156,
+            "duration": 2.041
+        },
+        {
+            "zh": "佩奇和乔治在跟着箭头走。",
+            "en": "Peppa and George are following the arrows.",
+            "startTime": 187.496,
+            "duration": 3.613
+        },
+        {
+            "zh": "看，乔治！一个钥匙！",
+            "en": "Look, George! A key!",
+            "startTime": 193.35,
+            "duration": 2.042
+        },
+        {
+            "zh": "佩奇找到了下一个提示。一个钥匙！",
+            "en": "Peppa has found the next clue. A key!",
+            "startTime": 195.486,
+            "duration": 2.582
+        },
+        {
+            "zh": "干得好，佩奇！",
+            "en": "Well done, Peppa!",
+            "startTime": 198.203,
+            "duration": 1.297
+        },
+        {
+            "zh": "现在你只要找到宝箱，然后打开它。",
+            "en": "Now you just have to find the treasure chest that it unlocks.",
+            "startTime": 200.238,
+            "duration": 4.647
+        },
+        {
+            "zh": "但是没有更多的线索了。",
+            "en": "But there aren't any more clues.",
+            "startTime": 205.63,
+            "duration": 2.457
+        },
+        {
+            "zh": "也许你应该再看一看地图。",
+            "en": "Maybe you should take another look at the map...",
+            "startTime": 208.163,
+            "duration": 2.699
+        },
+        {
+            "zh": "看，佩奇，地图上有两棵苹果树。",
+            "en": "Look, Peppa, the map has two apple trees on it.",
+            "startTime": 211.095,
+            "duration": 3.321
+        },
+        {
+            "zh": "这有棵苹果树！",
+            "en": "Here's an apple tree!",
+            "startTime": 215.922,
+            "duration": 1.508
+        },
+        {
+            "zh": "这也有棵苹果树！",
+            "en": "And here's an apple tree!",
+            "startTime": 217.841,
+            "duration": 1.433
+        },
+        {
+            "zh": "所以宝藏一定在这里了！",
+            "en": "So the treasure must be here!",
+            "startTime": 220.925,
+            "duration": 2.798
+        },
+        {
+            "zh": "让我们来看看！",
+            "en": "Let's take a look!",
+            "startTime": 224.623,
+            "duration": 1.178
+        },
+        {
+            "zh": "哦，天啊。这看起来不像有东西在。。。",
+            "en": "Oh, dear. There doesn't seem to be anything here...",
+            "startTime": 231.276,
+            "duration": 3.414
+        },
+        {
+            "zh": "等一下！这里有东西！",
+            "en": "Hang on! There is something here!",
+            "startTime": 237.203,
+            "duration": 2.637
+        },
+        {
+            "zh": "哇！宝藏！",
+            "en": "Wow! Treasure!",
+            "startTime": 239.871,
+            "duration": 2.332
+        },
+        {
+            "zh": "好耶！",
+            "en": "Hurray!",
+            "startTime": 242.247,
+            "duration": 0.703
+        },
+        {
+            "zh": "做得好！做得好！",
+            "en": "Well done! Well done!",
+            "startTime": 243.11,
+            "duration": 1.718
+        },
+        {
+            "zh": "我有钥匙打开它！",
+            "en": "I've got the key to open it!",
+            "startTime": 245.89,
+            "duration": 1.861
+        },
+        {
+            "zh": "哇！我真不敢相信！",
+            "en": "Wow! I can't believe it!",
+            "startTime": 249.721,
+            "duration": 1.809
+        },
+        {
+            "zh": "居然是金币！它们一定很值钱！",
+            "en": "Gold coins! They must be worth a fortune!",
+            "startTime": 252.036,
+            "duration": 3.289
+        },
+        {
+            "zh": "比那更好！",
+            "en": "It's better than that!",
+            "startTime": 255.383,
+            "duration": 2.233
+        },
+        {
+            "zh": "他们不是金币，他们是巧克力金币！",
+            "en": "They are not gold coins, they are chocolate coins!",
+            "startTime": 257.716,
+            "duration": 5.231
+        },
+        {
+            "zh": "每个人都有巧克力金币。",
+            "en": "And there's a chocolate coin for everybody.",
+            "startTime": 263.056,
+            "duration": 3.044
+        },
+        {
+            "zh": "好耶！",
+            "en": "Hurray!",
+            "startTime": 266.125,
+            "duration": 1.945
+        },
+        {
+            "zh": "佩奇和乔治喜欢巧克力金币。",
+            "en": "Peppa and George love chocolate coins.",
+            "startTime": 268.095,
+            "duration": 2.721
+        },
+        {
+            "zh": "大家都喜欢巧克力金币。",
+            "en": "Everyone loves chocolate coins.",
+            "startTime": 270.936,
+            "duration": 2.314
+        },
+        {
+            "zh": "奶奶，爷爷，",
+            "en": "Granny, Grandpa,",
+            "startTime": 273.376,
+            "duration": 1.467
+        },
+        {
+            "zh": "这是最好玩的寻宝游戏！",
+            "en": "this is the best treasure hunt ever!",
+            "startTime": 275.039,
+            "duration": 2.977
+        }
+    ]
+}
