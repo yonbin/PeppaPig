@@ -41,4 +41,6 @@
 - [x] 第 22 集 牙仙子 | The Tooth Fairy
 - [x] 第 23 集 新车 | The New Car
 - [x] 第 24 集 寻宝 | Treasure Hunt
-- [ ] 第 25 集 不太好 | Not Very well
+- [x] 第 25 集 不太好 | Not Very well
+- [x] 第 26 集 下雪了 | Snow
+- [x] 第 27 集 风息堡 | Windy Castle
