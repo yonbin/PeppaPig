@@ -1,0 +1,551 @@
+{
+    "title": "第 28 集 我的堂姐克洛伊|My Cousin Chloe!",
+    "data": [
+        {
+            "zh": "我的堂姐克洛伊",
+            "en": "My Cousin Chloe!",
+            "startTime": 17.681,
+            "duration": 2.696
+        },
+        {
+            "zh": "佩奇和乔治在花园里玩。",
+            "en": "Peppa and George are playing in the garden.",
+            "startTime": 22.219,
+            "duration": 2.3
+        },
+        {
+            "zh": "给我，乔治！",
+            "en": "To me, George!",
+            "startTime": 24.855,
+            "duration": 1.75
+        },
+        {
+            "zh": "你的球扔得太大力了，乔治！",
+            "en": "You threw the ball too hard, George!",
+            "startTime": 27.45,
+            "duration": 2.914
+        },
+        {
+            "zh": "所以按规则来说，我赢了！",
+            "en": "So the rules say, I win!",
+            "startTime": 30.498,
+            "duration": 2.207
+        },
+        {
+            "zh": "现在轮到我了。我又赢了！",
+            "en": "Now it's my turn. I win again!",
+            "startTime": 33.195,
+            "duration": 4.949
+        },
+        {
+            "zh": "佩奇，乔治，今天你们的堂姐克洛伊会来家里玩！",
+            "en": "Peppa, George. Today your big cousin, Chloe is coming to visit!",
+            "startTime": 38.535,
+            "duration": 4.167
+        },
+        {
+            "zh": "好耶！堂姐克洛伊！",
+            "en": "Yippee! Cousin Chloe!",
+            "startTime": 42.798,
+            "duration": 2.059
+        },
+        {
+            "zh": "乔治，克洛伊像我一样是个大姑娘了。",
+            "en": "George, Chloe is a big girl, like me.",
+            "startTime": 45.373,
+            "duration": 3.197
+        },
+        {
+            "zh": "所以，如果她觉得你太小不和你玩，你不要伤心哦。",
+            "en": "So, don't be sad if she finds you too Little to play with.",
+            "startTime": 48.599,
+            "duration": 4.1
+        },
+        {
+            "zh": "我相信克洛伊会和你们俩一起玩的。",
+            "en": "I'm sure Chloe will play with both of you.",
+            "startTime": 52.809,
+            "duration": 3.927
+        },
+        {
+            "zh": "克洛伊到了！",
+            "en": "Chloe is here!",
+            "startTime": 56.996,
+            "duration": 1.827
+        },
+        {
+            "zh": "猪伯母带克洛伊来佩奇家里玩了。",
+            "en": "Aunty Pig has brought Chloe to spend the day at Peppa's house.",
+            "startTime": 59.456,
+            "duration": 3.64
+        },
+        {
+            "zh": "克洛伊是佩奇和乔治的堂姐。",
+            "en": "Chloe is Peppa and George's cousin.",
+            "startTime": 63.165,
+            "duration": 2.139
+        },
+        {
+            "zh": "克洛伊比佩奇和乔治大一点点。",
+            "en": "Chloe is a bit older than Peppa and George.",
+            "startTime": 65.329,
+            "duration": 2.773
+        },
+        {
+            "zh": "你好，克洛伊！",
+            "en": "Hello, Chloe!",
+            "startTime": 68.46,
+            "duration": 1.115
+        },
+        {
+            "zh": "你好，佩奇！你好，乔治！",
+            "en": "Hello, Peppa! Hello, George!",
+            "startTime": 70.206,
+            "duration": 1.893
+        },
+        {
+            "zh": "待会见！",
+            "en": "See you later!",
+            "startTime": 73.753,
+            "duration": 0.853
+        },
+        {
+            "zh": "想玩游戏吗？",
+            "en": "Do you want to play a game?",
+            "startTime": 75.05,
+            "duration": 1.382
+        },
+        {
+            "zh": "是的！我们来玩“你跑我追”!",
+            "en": "Yes! Let's play \"Catch!\"",
+            "startTime": 76.865,
+            "duration": 1.705
+        },
+        {
+            "zh": "佩奇喜欢玩“你跑我追”！",
+            "en": "Peppa loves playing \"Catch\".",
+            "startTime": 79.092,
+            "duration": 1.526
+        },
+        {
+            "zh": "你还玩“你跑我追”？",
+            "en": "Do you still play \"Catch\"?",
+            "startTime": 80.652,
+            "duration": 1.746
+        },
+        {
+            "zh": "那可是小孩子玩的游戏。",
+            "en": "That's a game for Little children.",
+            "startTime": 82.458,
+            "duration": 1.794
+        },
+        {
+            "zh": "我们玩“你跑我追”只是因为是乔治喜欢这个游戏。",
+            "en": "We only play \"Catch\" because George likes it.",
+            "startTime": 85.151,
+            "duration": 4.067
+        },
+        {
+            "zh": "好吧。那我们陪乔治玩吧。",
+            "en": "Okay. Let's play it for George.",
+            "startTime": 89.298,
+            "duration": 2.206
+        },
+        {
+            "zh": "你是按大人的规则玩还是按小朋友的规则玩？",
+            "en": "Do you play with the proper rules or the baby rules?",
+            "startTime": 91.671,
+            "duration": 3.54
+        },
+        {
+            "zh": "按大人的规则！",
+            "en": "Proper rules!",
+            "startTime": 95.311,
+            "duration": 1.267
+        },
+        {
+            "zh": "开始了。佩奇！你是追的人。",
+            "en": "I'll start. Peppa! You're \"it\".",
+            "startTime": 96.792,
+            "duration": 2.939
+        },
+        {
+            "zh": "有本事就来抓我呀！",
+            "en": "Catch me if you can!",
+            "startTime": 99.964,
+            "duration": 1.407
+        },
+        {
+            "zh": "佩奇是那个追的人。她要追克洛伊和乔治。",
+            "en": "Peppa is \"it\". She has to chase Chloe and George.",
+            "startTime": 102.372,
+            "duration": 3.486
+        },
+        {
+            "zh": "抓不到我吧！",
+            "en": "Can't catch me!",
+            "startTime": 105.883,
+            "duration": 1.34
+        },
+        {
+            "zh": "乔治！",
+            "en": "George!",
+            "startTime": 107.983,
+            "duration": 1.001
+        },
+        {
+            "zh": "要抓住你太简单了！你那么小！",
+            "en": "I'm going to easily catch you! You're so Little!",
+            "startTime": 109.009,
+            "duration": 3.796
+        },
+        {
+            "zh": "那样不公平！你在帮乔治！",
+            "en": "That's not fair! You're helping George!",
+            "startTime": 113.51,
+            "duration": 3.613
+        },
+        {
+            "zh": "那是因为他还小。",
+            "en": "That's because he's Little.",
+            "startTime": 117.148,
+            "duration": 1.528
+        },
+        {
+            "zh": "你需要我来帮你吗？",
+            "en": "Do you want me to help you?",
+            "startTime": 119.332,
+            "duration": 1.29
+        },
+        {
+            "zh": "不，我不需要帮忙。我和你一样是个大姑娘了。",
+            "en": "No! I don't need help. I'm a big girl like you.",
+            "startTime": 120.689,
+            "duration": 3.613
+        },
+        {
+            "zh": "来吧，佩奇！来抓我们吧！",
+            "en": "Come on, then, Peppa! Try and catch us!",
+            "startTime": 124.406,
+            "duration": 2.6
+        },
+        {
+            "zh": "抓不到我们！",
+            "en": "Can't catch us!",
+            "startTime": 127.591,
+            "duration": 1.648
+        },
+        {
+            "zh": "抓不到我们！",
+            "en": "Can't catch us!",
+            "startTime": 130.988,
+            "duration": 1.626
+        },
+        {
+            "zh": "这个游戏很傻气.",
+            "en": "This is a silly game.",
+            "startTime": 133.241,
+            "duration": 1.66
+        },
+        {
+            "zh": "我们可以玩别的游戏吗？",
+            "en": "Can we play something else?",
+            "startTime": 134.938,
+            "duration": 1.799
+        },
+        {
+            "zh": "可以啊，我知道一个真正适合大孩子玩的好游戏。",
+            "en": "Okay, I know a really good game for big children.",
+            "startTime": 136.784,
+            "duration": 3.453
+        },
+        {
+            "zh": "叫做“狡猾的狐狸”！",
+            "en": "It's called \"Sly Fox\"!",
+            "startTime": 140.291,
+            "duration": 2.253
+        },
+        {
+            "zh": "“狡猾的狐狸”！",
+            "en": "\"Sly Fox\"!!",
+            "startTime": 142.984,
+            "duration": 1.393
+        },
+        {
+            "zh": "我想玩“狡猾的狐狸”！",
+            "en": "I want to play \"Sly Fox\"!",
+            "startTime": 144.404,
+            "duration": 2.353
+        },
+        {
+            "zh": "它是什么？",
+            "en": "What is it?",
+            "startTime": 147.529,
+            "duration": 1.111
+        },
+        {
+            "zh": "由一个人来做“狡猾的狐狸”其他人悄悄地走上前。",
+            "en": "One person is the \"Sly Fox\" and the others creep up on them.",
+            "startTime": 148.72,
+            "duration": 5.691
+        },
+        {
+            "zh": "我来！我来！我要扮“狡猾的狐狸”！",
+            "en": "Me! Me! I want to be the \"Sly Fox\"!",
+            "startTime": 154.45,
+            "duration": 2.674
+        },
+        {
+            "zh": "佩奇做\"狡猾的狐狸\"。",
+            "en": "Peppa is the \"Sly Fox\".",
+            "startTime": 157.193,
+            "duration": 1.797
+        },
+        {
+            "zh": "当她转过身去时，其他人悄悄地走向她。",
+            "en": "While her back is turned, the others creep up on her.",
+            "startTime": 159.129,
+            "duration": 3.227
+        },
+        {
+            "zh": "但如果佩奇转过身看到谁在动，",
+            "en": "But if Peppa turns and sees someone move,",
+            "startTime": 162.509,
+            "duration": 2.347
+        },
+        {
+            "zh": "那他们就得走回去重新开始！",
+            "en": "they have to go back to the start!",
+            "startTime": 165.082,
+            "duration": 1.781
+        },
+        {
+            "zh": "乔治，我看到你动了！",
+            "en": "George, I saw you move!",
+            "startTime": 167.755,
+            "duration": 1.592
+        },
+        {
+            "zh": "回去重新开始！",
+            "en": "Back to the start!",
+            "startTime": 169.506,
+            "duration": 0.989
+        },
+        {
+            "zh": "抓住你了！我赢了！",
+            "en": "Got you! I win!",
+            "startTime": 172.662,
+            "duration": 2.174
+        },
+        {
+            "zh": "我还没准备好你就动了！",
+            "en": "You moved before I was ready!",
+            "startTime": 174.969,
+            "duration": 2.08
+        },
+        {
+            "zh": "规则说我随时都可以动。",
+            "en": "The rules say I can move when I like.",
+            "startTime": 177.235,
+            "duration": 2.395
+        },
+        {
+            "zh": "是不是，乔治?",
+            "en": "Don't they, George?",
+            "startTime": 179.715,
+            "duration": 1.454
+        },
+        {
+            "zh": "现在轮到克洛伊来做“狡猾的狐狸”了。",
+            "en": "Now it's Chloe's turn to be the \"Sly Fox\".",
+            "startTime": 182.105,
+            "duration": 2.897
+        },
+        {
+            "zh": "佩奇和乔治必须保持不动。",
+            "en": "Peppa and George must stay very still.",
+            "startTime": 187.997,
+            "duration": 2.326
+        },
+        {
+            "zh": "佩奇！我看到你动了！回到原位重新开始！",
+            "en": "Peppa! I saw you move! Back to the start!",
+            "startTime": 193.409,
+            "duration": 2.651
+        },
+        {
+            "zh": "不公平！你看得太久了！",
+            "en": "It's not fair! You looked too long!",
+            "startTime": 196.716,
+            "duration": 2.66
+        },
+        {
+            "zh": "规则说，我想看多久就多久。",
+            "en": "The rules say, I can look as long as I want.",
+            "startTime": 199.462,
+            "duration": 3.161
+        },
+        {
+            "zh": "回到原位重新开始。",
+            "en": "Back to the start.",
+            "startTime": 202.999,
+            "duration": 1.311
+        },
+        {
+            "zh": "乔治赢了！",
+            "en": "George is the winner!",
+            "startTime": 206.857,
+            "duration": 1.826
+        },
+        {
+            "zh": "我们可以玩别的游戏吗？",
+            "en": "Can we play a different game?",
+            "startTime": 209.458,
+            "duration": 1.605
+        },
+        {
+            "zh": "可以。",
+            "en": "Yes.",
+            "startTime": 211.29,
+            "duration": 0.534
+        },
+        {
+            "zh": "但只能是大人玩的游戏。",
+            "en": "But as long as it's a grown-up game.",
+            "startTime": 212.15,
+            "duration": 2.1
+        },
+        {
+            "zh": "我知道！",
+            "en": "I know!",
+            "startTime": 214.29,
+            "duration": 0.873
+        },
+        {
+            "zh": "我们来玩我最喜欢的游戏吧！",
+            "en": "Let's play my favorite game!",
+            "startTime": 215.43,
+            "duration": 2.213
+        },
+        {
+            "zh": "大人的游戏！",
+            "en": "It's very grown-up!",
+            "startTime": 217.727,
+            "duration": 1.217
+        },
+        {
+            "zh": "乔治，你知道佩奇最喜欢的游戏是什么？",
+            "en": "George, do you know what Peppa's favorite game is?",
+            "startTime": 220.056,
+            "duration": 3.227
+        },
+        {
+            "zh": "佩奇最喜欢的游戏是在泥坑里跳来跳去！",
+            "en": "Peppa's favorite game is jumping up and down in muddy puddles!",
+            "startTime": 224.221,
+            "duration": 3.479
+        },
+        {
+            "zh": "乔治，如果你想跳到泥坑里玩，你必须穿上你的靴子！",
+            "en": "George, if you jump in puddles, you must wear your boots!",
+            "startTime": 228.098,
+            "duration": 4.153
+        },
+        {
+            "zh": "我也给你带了一双靴子，克洛伊！",
+            "en": "I've brought some boots for you too, Chloe!",
+            "startTime": 233.14,
+            "duration": 3.278
+        },
+        {
+            "zh": "我已经是大人了不能在泥坑里跳。",
+            "en": "I'm too grown-up to jump in muddy puddles.",
+            "startTime": 236.566,
+            "duration": 2.977
+        },
+        {
+            "zh": "哦。我也是。",
+            "en": "Oh. So am I.",
+            "startTime": 239.775,
+            "duration": 2.435
+        },
+        {
+            "zh": "乔治喜欢跳到泥坑里玩。",
+            "en": "George loves jumping in muddy puddles.",
+            "startTime": 242.94,
+            "duration": 3.183
+        },
+        {
+            "zh": "其实，佩奇也喜欢跳到泥坑里玩。",
+            "en": "Secretly, Peppa would love to jump in the puddle.",
+            "startTime": 247.017,
+            "duration": 2.423
+        },
+        {
+            "zh": "但是她想让自己看上去像个大人。",
+            "en": "But she wants to look grown-up.",
+            "startTime": 249.578,
+            "duration": 1.945
+        },
+        {
+            "zh": "我听说这有跳泥坑可以玩！",
+            "en": "I hear there's some puddle jumping going on!",
+            "startTime": 251.548,
+            "duration": 3.035
+        },
+        {
+            "zh": "猪妈妈和猪爸爸也喜欢跳到泥坑里玩！",
+            "en": "Mummy Pig and Daddy Pig love jumping in muddy puddles!",
+            "startTime": 254.811,
+            "duration": 3.739
+        },
+        {
+            "zh": "的确看起来很有趣。",
+            "en": "It does look fun.",
+            "startTime": 258.689,
+            "duration": 2.094
+        },
+        {
+            "zh": "是的，确实是。",
+            "en": "Yes, it does.",
+            "startTime": 261.01,
+            "duration": 1.973
+        },
+        {
+            "zh": "也许有条规则是，大姑娘也可以跳到泥坑里玩。",
+            "en": "Maybe there's a rule that says, big girls can jump in muddy puddles.",
+            "startTime": 264.995,
+            "duration": 4.32
+        },
+        {
+            "zh": "是的！这是个好规则！",
+            "en": "Yes! That's a good rule!",
+            "startTime": 269.485,
+            "duration": 2.623
+        },
+        {
+            "zh": "看谁快！",
+            "en": "Race you!",
+            "startTime": 272.461,
+            "duration": 1.367
+        },
+        {
+            "zh": "看谁快！",
+            "en": "Race you!",
+            "startTime": 273.87,
+            "duration": 0.989
+        },
+        {
+            "zh": "佩奇和克洛伊喜欢在泥坑里跳来跳去！",
+            "en": "Peppa and Chloe love jumping up and down in muddy puddles!",
+            "startTime": 275.739,
+            "duration": 3.477
+        },
+        {
+            "zh": "大家都喜欢在泥坑里跳来跳去，即使是大姑娘也喜欢！",
+            "en": "Everyone loves jumping up and down in muddy puddles, even grown-up girls!",
+            "startTime": 279.41,
+            "duration": 5.12
+        }
+    ]
+}
