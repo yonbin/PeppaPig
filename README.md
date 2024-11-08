@@ -44,5 +44,6 @@
 - [x] 第 25 集 不太好 | Not Very well
 - [x] 第 26 集 下雪了 | Snow
 - [x] 第 27 集 风息堡 | Windy Castle
-- [x] 第 28 集 我的堂姐克洛伊|My Cousin Chloe
-- [x] 第 29 集 煎饼|Pancakes!
+- [x] 第 28 集 我的堂姐克洛伊 | My Cousin Chloe
+- [x] 第 29 集 煎饼 | Pancakes!
+- [x] 第 30 集 照顾小孩 | Babysitting!
