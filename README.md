@@ -47,3 +47,5 @@
 - [x] 第 28 集 我的堂姐克洛伊 | My Cousin Chloe
 - [x] 第 29 集 煎饼 | Pancakes!
 - [x] 第 30 集 照顾小孩 | Babysitting!
+- [x] 第 31 集 芭蕾舞课 | Ballet Lesson!
+- [x] 第 32 集暴风雨|Thunderstorm
