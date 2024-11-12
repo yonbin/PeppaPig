@@ -50,3 +50,4 @@
 - [x] 第 31 集 芭蕾舞课 | Ballet Lesson!
 - [x] 第 32 集暴风雨 | Thunderstorm
 - [x] 第 33 集清洁汽车 | Cleaning the Car!
+- [x] 第 34 集午餐 Lunch!

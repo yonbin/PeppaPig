@@ -1,0 +1,437 @@
+{
+    "title": "第 34 集午餐|Lunch!",
+    "data": [
+        {
+            "zh": "午餐",
+            "en": "Lunch!",
+            "startTime": 19.733,
+            "duration": 1.74
+        },
+        {
+            "zh": "佩奇和乔治来到猪奶奶和猪爷爷家吃午餐。",
+            "en": "Peppa and George have come to Granny and Grandpa Pig's house for lunch.",
+            "startTime": 23.61,
+            "duration": 3.674
+        },
+        {
+            "zh": "奶奶！",
+            "en": "Granny Pig!",
+            "startTime": 28.404,
+            "duration": 1.351
+        },
+        {
+            "zh": "奶奶！",
+            "en": "Ganggy Pig!",
+            "startTime": 30.03,
+            "duration": 0.955
+        },
+        {
+            "zh": "你们好，我的小可爱们！",
+            "en": "Hello, my little ones!",
+            "startTime": 31.651,
+            "duration": 2.061
+        },
+        {
+            "zh": "你们想从花园里摘些蔬菜做午餐吗？",
+            "en": "Would you like to pick some vegetables from the garden for lunch?",
+            "startTime": 34.134,
+            "duration": 3.515
+        },
+        {
+            "zh": "想！",
+            "en": "Yes, please!",
+            "startTime": 37.737,
+            "duration": 1.221
+        },
+        {
+            "zh": "爷爷！",
+            "en": "Grandpa Pig!",
+            "startTime": 44.223,
+            "duration": 1.16
+        },
+        {
+            "zh": "爷爷！",
+            "en": "Grandpa Pig!",
+            "startTime": 45.452,
+            "duration": 1.046
+        },
+        {
+            "zh": "你们好，佩奇，乔治。",
+            "en": "Hello, Peppa, George.",
+            "startTime": 46.963,
+            "duration": 2.41
+        },
+        {
+            "zh": "这是猪爷爷的蔬菜园。",
+            "en": "This is Grandpa Pig's vegetable garden.",
+            "startTime": 49.509,
+            "duration": 1.895
+        },
+        {
+            "zh": "这些蔬菜全是他自己种的！",
+            "en": "He has grown all these vegetables himself!",
+            "startTime": 51.796,
+            "duration": 2.369
+        },
+        {
+            "zh": "这是什么？",
+            "en": "What's this?",
+            "startTime": 56.282,
+            "duration": 1.524
+        },
+        {
+            "zh": "恐龙！",
+            "en": "Dinesaw!",
+            "startTime": 57.971,
+            "duration": 1.183
+        },
+        {
+            "zh": "一只恐龙！",
+            "en": "A dinosaur!",
+            "startTime": 59.825,
+            "duration": 1.501
+        },
+        {
+            "zh": "我们选些蔬菜做午餐吧。",
+            "en": "Let's choose some vegetables for lunch.",
+            "startTime": 63.323,
+            "duration": 2.798
+        },
+        {
+            "zh": "佩奇，你喜欢吃番茄吗？",
+            "en": "Peppa, do you like tomatoes?",
+            "startTime": 70.469,
+            "duration": 2.521
+        },
+        {
+            "zh": "是的，爷爷！",
+            "en": "Yes, Grandpa Pig!",
+            "startTime": 73.466,
+            "duration": 1.71
+        },
+        {
+            "zh": "乔治，你喜欢吃番茄吗？",
+            "en": "George, do you like tomatoes?",
+            "startTime": 75.296,
+            "duration": 2.876
+        },
+        {
+            "zh": "不喜欢。",
+            "en": "No.",
+            "startTime": 78.197,
+            "duration": 0.921
+        },
+        {
+            "zh": "乔治不喜欢吃番茄。",
+            "en": "George does not like tomatoes.",
+            "startTime": 81.034,
+            "duration": 2.502
+        },
+        {
+            "zh": "哦，天啊。你们俩喜欢吃生菜吗？",
+            "en": "Oh, dear. Do you both like lettuce?",
+            "startTime": 83.561,
+            "duration": 7.236
+        },
+        {
+            "zh": "是的，爷爷！",
+            "en": "Yes, Grandpa Pig!",
+            "startTime": 91.117,
+            "duration": 1.365
+        },
+        {
+            "zh": "不喜欢。",
+            "en": "No.",
+            "startTime": 92.738,
+            "duration": 0.853
+        },
+        {
+            "zh": "乔治不喜欢吃生菜。",
+            "en": "George does not like lettuce.",
+            "startTime": 95.034,
+            "duration": 2.207
+        },
+        {
+            "zh": "哦，天啊！我一定有乔治喜欢吃的。",
+            "en": "Oh, dear! I must have something that George likes.",
+            "startTime": 97.43,
+            "duration": 4.288
+        },
+        {
+            "zh": "你喜欢吃黄瓜吗？",
+            "en": "Do you like cucumber?",
+            "startTime": 103.37,
+            "duration": 1.402
+        },
+        {
+            "zh": "难吃！",
+            "en": "Yuck!",
+            "startTime": 105.064,
+            "duration": 1.467
+        },
+        {
+            "zh": "乔治不喜欢吃黄瓜，",
+            "en": "George does not like cucumbers,",
+            "startTime": 106.556,
+            "duration": 1.72
+        },
+        {
+            "zh": "也不喜欢吃生菜，",
+            "en": "and he does not like lettuce,",
+            "startTime": 108.55,
+            "duration": 1.479
+        },
+        {
+            "zh": "也他也不喜欢吃番茄。",
+            "en": "and he does not like tomatoes.",
+            "startTime": 110.143,
+            "duration": 1.705
+        },
+        {
+            "zh": "好吧，乔治，你喜欢吃什么蔬菜？",
+            "en": "Well, George, what vegetable do you like?",
+            "startTime": 111.939,
+            "duration": 3.538
+        },
+        {
+            "zh": "巧克力蛋糕！",
+            "en": "Chocolate cake!",
+            "startTime": 115.562,
+            "duration": 1.365
+        },
+        {
+            "zh": "傻乔治！巧克力蛋糕可不是蔬菜！",
+            "en": "Silly George! Chocolate cake isn't a vegetable!",
+            "startTime": 118.459,
+            "duration": 4.198
+        },
+        {
+            "zh": "也许乔治会喜欢吃蔬菜只要把它们做成可口的沙拉。",
+            "en": "Maybe George will like the vegetables when they're made into a lovely salad.",
+            "startTime": 123.91,
+            "duration": 4.893
+        },
+        {
+            "zh": "哦！新鲜可口的番茄，生菜和黄瓜！",
+            "en": "Ooh! Lovely fresh tomatoes, lettuce and cucumber!",
+            "startTime": 132.132,
+            "duration": 4.596
+        },
+        {
+            "zh": "首先，我们必需要洗一下它们！",
+            "en": "First, we have to wash them!",
+            "startTime": 137.944,
+            "duration": 2.226
+        },
+        {
+            "zh": "佩奇和乔治帮奶奶清洗蔬菜。",
+            "en": "Peppa and George help Granny Pig wash the vegetables.",
+            "startTime": 140.195,
+            "duration": 3.341
+        },
+        {
+            "zh": "清洗得足够干净了。",
+            "en": "Maybe that's enough washing.",
+            "startTime": 149.268,
+            "duration": 1.935
+        },
+        {
+            "zh": "猪奶奶把番茄，生菜和黄瓜制成沙拉。",
+            "en": "Granny Pig has made the tomatoes, lettuce and cucumber into a salad.",
+            "startTime": 154.234,
+            "duration": 4.34
+        },
+        {
+            "zh": "猪爷爷，你可以叫大家来吃午饭吗？",
+            "en": "Grandpa Pig, can you call everyone to lunch?",
+            "startTime": 158.731,
+            "duration": 2.969
+        },
+        {
+            "zh": "吃午饭啦！！！",
+            "en": "Lunch!!!",
+            "startTime": 161.725,
+            "duration": 1.739
+        },
+        {
+            "zh": "猪奶奶做了披萨。",
+            "en": "Granny Pig has made pizza for lunch.",
+            "startTime": 166.001,
+            "duration": 2.455
+        },
+        {
+            "zh": "这是沙拉。",
+            "en": "And here's some salad",
+            "startTime": 168.515,
+            "duration": 1.399
+        },
+        {
+            "zh": "是用爷爷的番茄，生菜和黄瓜做的！",
+            "en": "made with Grandpa's tomatoes, lettuce and cucumber!",
+            "startTime": 170.13,
+            "duration": 3.515
+        },
+        {
+            "zh": "大家快都开动吧！",
+            "en": "Chuck in, everyone!",
+            "startTime": 174.648,
+            "duration": 1.715
+        },
+        {
+            "zh": "乔治吃完了披萨。",
+            "en": "George has eaten his pizza.",
+            "startTime": 184.985,
+            "duration": 1.628
+        },
+        {
+            "zh": "但乔治不喜欢吃番茄，生菜和黄瓜。",
+            "en": "But George does not like the tomatoes or the lettuce or the cucumber.",
+            "startTime": 187.04,
+            "duration": 3.841
+        },
+        {
+            "zh": "哦，天啊，乔治。你不喜欢吃沙拉吗？",
+            "en": "Oh, dear, George. Don't you like the salad?",
+            "startTime": 191.594,
+            "duration": 3.9
+        },
+        {
+            "zh": "不喜欢。",
+            "en": "No.",
+            "startTime": 195.608,
+            "duration": 0.819
+        },
+        {
+            "zh": "乔治，尝一点这可口的番茄吧。",
+            "en": "George, just try a little bit of this lovely tomato.",
+            "startTime": 196.543,
+            "duration": 4.149
+        },
+        {
+            "zh": "难吃！",
+            "en": "Yuck!",
+            "startTime": 201.055,
+            "duration": 0.921
+        },
+        {
+            "zh": "乔治。这是黄瓜。",
+            "en": "George. This is cucumber.",
+            "startTime": 202.228,
+            "duration": 2.911
+        },
+        {
+            "zh": "猪爷爷自己在花园种的！",
+            "en": "Grandpa Pig grew it in his garden!",
+            "startTime": 205.251,
+            "duration": 2.497
+        },
+        {
+            "zh": "尝一片生菜吧，乔治。很好吃的！",
+            "en": "Try a piece of lettuce, George. It's yummy!",
+            "startTime": 209.663,
+            "duration": 3.345
+        },
+        {
+            "zh": "别哭了乔治。",
+            "en": "Now, now, George.",
+            "startTime": 216.109,
+            "duration": 4.56
+        },
+        {
+            "zh": "看看我在做什么。",
+            "en": "Look what I'm doing.",
+            "startTime": 220.872,
+            "duration": 2.0
+        },
+        {
+            "zh": "现在它是一条恐龙了！",
+            "en": "Now, it's a dinosaur!",
+            "startTime": 225.458,
+            "duration": 2.377
+        },
+        {
+            "zh": "恐龙！",
+            "en": "Dinesaur!",
+            "startTime": 228.067,
+            "duration": 1.637
+        },
+        {
+            "zh": "乔治喜欢恐龙！",
+            "en": "George loves dinosaurs!",
+            "startTime": 233.118,
+            "duration": 1.746
+        },
+        {
+            "zh": "乔治开始吃番茄，生菜和黄瓜了。",
+            "en": "George is eating the tomatoes, lettuce and cucumber!",
+            "startTime": 235.965,
+            "duration": 3.378
+        },
+        {
+            "zh": "做得好，乔治！",
+            "en": "Well done, George!",
+            "startTime": 239.505,
+            "duration": 1.806
+        },
+        {
+            "zh": "你要再吃点吗，乔治？",
+            "en": "Would you like some more, George?",
+            "startTime": 243.156,
+            "duration": 1.98
+        },
+        {
+            "zh": "饱了。",
+            "en": "Full.",
+            "startTime": 245.665,
+            "duration": 0.853
+        },
+        {
+            "zh": "乔治，你是不是吃得太饱了，一点番茄，生菜和黄瓜都不能吃了？",
+            "en": "George, are you too full to eat any more tomatoes, lettuce or cucumber?",
+            "startTime": 246.566,
+            "duration": 6.146
+        },
+        {
+            "zh": "乔治吃得太饱了不能再吃别的东西了。",
+            "en": "George is too full to eat any more.",
+            "startTime": 253.693,
+            "duration": 2.07
+        },
+        {
+            "zh": "乔治，你是不是吃得太饱，别的都吃不下了？",
+            "en": "George, are you too full to eat anything more?",
+            "startTime": 255.995,
+            "duration": 3.538
+        },
+        {
+            "zh": "乔治吃得太饱，别的都吃不下了。",
+            "en": "George is too full to eat anything more.",
+            "startTime": 260.594,
+            "duration": 2.457
+        },
+        {
+            "zh": "哦，好的，那么你也应该吃不下巧克力蛋糕了！",
+            "en": "Oh, well, then you won't want any of this  chocolate cake!",
+            "startTime": 263.31,
+            "duration": 4.48
+        },
+        {
+            "zh": "巧克力蛋糕！",
+            "en": "Chocolate cake!",
+            "startTime": 268.975,
+            "duration": 1.524
+        },
+        {
+            "zh": "我的天啊！",
+            "en": "My word!",
+            "startTime": 274.755,
+            "duration": 1.436
+        },
+        {
+            "zh": "看来乔治的胃口又回来了！",
+            "en": "George seems to have got his appetite back!",
+            "startTime": 276.486,
+            "duration": 3.017
+        }
+    ]
+}
