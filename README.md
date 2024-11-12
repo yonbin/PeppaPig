@@ -48,4 +48,5 @@
 - [x] 第 29 集 煎饼 | Pancakes!
 - [x] 第 30 集 照顾小孩 | Babysitting!
 - [x] 第 31 集 芭蕾舞课 | Ballet Lesson!
-- [x] 第 32 集暴风雨|Thunderstorm
+- [x] 第 32 集暴风雨 | Thunderstorm
+- [x] 第 33 集清洁汽车 | Cleaning the Car!
