@@ -51,3 +51,4 @@
 - [x] 第 32 集暴风雨 | Thunderstorm
 - [x] 第 33 集清洁汽车 | Cleaning the Car!
 - [x] 第 34 集午餐 Lunch!
+- [x] 第 35 集露营 | Camping!
