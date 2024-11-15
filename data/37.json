@@ -1,0 +1,449 @@
+{
+    "title": "第 37 集树屋 | The Tree House!",
+    "data": [
+        {
+            "zh": "树屋",
+            "en": "The Tree House!",
+            "startTime": 18.65,
+            "duration": 1.695
+        },
+        {
+            "zh": "佩奇和乔治去看猪奶奶和猪爷爷。",
+            "en": "Peppa and George are visiting Granny Pig and Grandpa Pig.",
+            "startTime": 21.53,
+            "duration": 3.704
+        },
+        {
+            "zh": "奶奶好！",
+            "en": "Granny Pig!",
+            "startTime": 26.231,
+            "duration": 1.297
+        },
+        {
+            "zh": "奶奶好！",
+            "en": "Gangny Pig!",
+            "startTime": 27.553,
+            "duration": 0.932
+        },
+        {
+            "zh": "你们好，我的小可爱们！",
+            "en": "Hello, my little ones!",
+            "startTime": 28.543,
+            "duration": 1.915
+        },
+        {
+            "zh": "在你们进屋前，你们必须把靴子脱掉。",
+            "en": "Before you come in the house, you must take off your muddy boots.",
+            "startTime": 30.93,
+            "duration": 3.14
+        },
+        {
+            "zh": "好的，奶奶。",
+            "en": "Yes, Granny.",
+            "startTime": 34.285,
+            "duration": 0.996
+        },
+        {
+            "zh": "佩奇，乔治，看我做了什么！小窗帘！",
+            "en": "Peppa, George, look what I've made! Little curtains!",
+            "startTime": 39.605,
+            "duration": 4.546
+        },
+        {
+            "zh": "这小窗帘是用来干什么的，奶奶？",
+            "en": "What are the little curtains for, Granny?",
+            "startTime": 45.231,
+            "duration": 2.898
+        },
+        {
+            "zh": "这是个惊喜！",
+            "en": "It's a surprise!",
+            "startTime": 48.154,
+            "duration": 1.444
+        },
+        {
+            "zh": "你们想看看猪爷爷在花园为你们做了什么吗？",
+            "en": "Do you want to see what Grandpa Pig has made for you, in the garden?",
+            "startTime": 49.928,
+            "duration": 3.194
+        },
+        {
+            "zh": "想。",
+            "en": "Yes, please.",
+            "startTime": 53.147,
+            "duration": 1.088
+        },
+        {
+            "zh": "爷爷好！",
+            "en": "Grandpa Pig!",
+            "startTime": 61.666,
+            "duration": 0.898
+        },
+        {
+            "zh": "爷爷好！",
+            "en": "Grandpa Pig!",
+            "startTime": 62.667,
+            "duration": 1.058
+        },
+        {
+            "zh": "你们好，佩奇，乔治！",
+            "en": "Hello, Peppa, George!",
+            "startTime": 63.805,
+            "duration": 2.244
+        },
+        {
+            "zh": "看看我给你们做了什么。",
+            "en": "Look what I've made for you.",
+            "startTime": 66.599,
+            "duration": 2.213
+        },
+        {
+            "zh": "一间树屋！",
+            "en": "A tree house!",
+            "startTime": 69.207,
+            "duration": 1.605
+        },
+        {
+            "zh": "树屋！是做给乔治和我的吗？",
+            "en": "A tree house! For George and me?",
+            "startTime": 70.867,
+            "duration": 2.533
+        },
+        {
+            "zh": "这个小窗帘是给你们的树屋做的！",
+            "en": "And the little curtains are for your tree house!",
+            "startTime": 75.34,
+            "duration": 3.024
+        },
+        {
+            "zh": "好耶！",
+            "en": "Hurray!",
+            "startTime": 79.884,
+            "duration": 1.194
+        },
+        {
+            "zh": "佩奇和乔治很喜欢他们的树屋！",
+            "en": "Peppa and George love their tree house!",
+            "startTime": 81.103,
+            "duration": 3.08
+        },
+        {
+            "zh": "谢谢你，奶奶！谢谢你，爷爷！",
+            "en": "Thank you, Granny Pig! Thank you, Grandpa Pig!",
+            "startTime": 84.379,
+            "duration": 3.427
+        },
+        {
+            "zh": "谁想第一个进去呢？",
+            "en": "Who wants to go inside first?",
+            "startTime": 89.687,
+            "duration": 2.308
+        },
+        {
+            "zh": "我！我！",
+            "en": "Me! Me!",
+            "startTime": 92.17,
+            "duration": 0.932
+        },
+        {
+            "zh": "那你就进去吧！",
+            "en": "In you go then!",
+            "startTime": 93.454,
+            "duration": 1.968
+        },
+        {
+            "zh": "在进入我的树屋前，我得把我有泥巴的靴子脱掉。",
+            "en": "Before I go in my tree house, I must take off my muddy boots!",
+            "startTime": 95.736,
+            "duration": 5.192
+        },
+        {
+            "zh": "我在我的树屋里啦！我在我的树屋里啦！",
+            "en": "I'm in my tree house! I'm in my tree house!",
+            "startTime": 102.934,
+            "duration": 4.716
+        },
+        {
+            "zh": "乔治？你也想进树屋吗？",
+            "en": "George? Would you like to go in the tree house, too?",
+            "startTime": 109.761,
+            "duration": 3.132
+        },
+        {
+            "zh": "什么事？谁呀？",
+            "en": "Yes? Who is it?",
+            "startTime": 115.754,
+            "duration": 1.49
+        },
+        {
+            "zh": "有一个叫“乔治”的小猪想来拜访你。",
+            "en": "A young pig named ''George'' Would like to pay a visit.",
+            "startTime": 117.609,
+            "duration": 3.047
+        },
+        {
+            "zh": "他能进来吗？",
+            "en": "Can he come in?",
+            "startTime": 121.009,
+            "duration": 1.034
+        },
+        {
+            "zh": "只要他脱掉他有泥巴的靴子就可以。",
+            "en": "As long as he takes off his muddy boots.",
+            "startTime": 122.12,
+            "duration": 2.491
+        },
+        {
+            "zh": "乔治，把你的靴子脱掉然后你就可以进佩奇的树屋玩了。",
+            "en": "George, take your boots off, then you can visit Peppa in the tree house.",
+            "startTime": 124.789,
+            "duration": 4.067
+        },
+        {
+            "zh": "谁呀？",
+            "en": "Who is it?",
+            "startTime": 132.55,
+            "duration": 1.471
+        },
+        {
+            "zh": "乔治？",
+            "en": "George?",
+            "startTime": 134.673,
+            "duration": 0.796
+        },
+        {
+            "zh": "什么事？是谁啊？",
+            "en": "Yes? Who is it?",
+            "startTime": 140.778,
+            "duration": 1.791
+        },
+        {
+            "zh": "我是猪妈妈。",
+            "en": "It's Mummy Pig.",
+            "startTime": 142.904,
+            "duration": 1.102
+        },
+        {
+            "zh": "你的树屋还能让人进吗？",
+            "en": "Have you room for any more visitors?",
+            "startTime": 144.148,
+            "duration": 1.661
+        },
+        {
+            "zh": "你得说秘密暗号。",
+            "en": "You have to say the secret words.",
+            "startTime": 147.385,
+            "duration": 2.434
+        },
+        {
+            "zh": "然后你才能进树屋。",
+            "en": "Then you can come into our house.",
+            "startTime": 149.844,
+            "duration": 2.399
+        },
+        {
+            "zh": "我明白了。那秘密暗号是什么？",
+            "en": "I see. And what are the secret words?",
+            "startTime": 153.111,
+            "duration": 2.696
+        },
+        {
+            "zh": "我得悄悄告诉你。",
+            "en": "I have to whisper them to you.",
+            "startTime": 156.421,
+            "duration": 1.968
+        },
+        {
+            "zh": "秘密暗号是“爸爸的大肚子”！",
+            "en": "The secret words are ''Daddy's Big Tummy!''",
+            "startTime": 158.71,
+            "duration": 4.004
+        },
+        {
+            "zh": "我知道了！",
+            "en": "I see!",
+            "startTime": 163.027,
+            "duration": 0.898
+        },
+        {
+            "zh": "请说秘密暗号！",
+            "en": "Say the secret words!",
+            "startTime": 167.826,
+            "duration": 2.135
+        },
+        {
+            "zh": "“爸爸的大肚子。”",
+            "en": "''Daddy's Big Tummy.''",
+            "startTime": 170.061,
+            "duration": 1.325
+        },
+        {
+            "zh": "说得对！“爸爸的大肚子”！！",
+            "en": "That's right! ''Daddy's Big Tummy!!''",
+            "startTime": 171.679,
+            "duration": 3.128
+        },
+        {
+            "zh": "我觉得这个暗号有点傻。",
+            "en": "I think those are silly secret words.",
+            "startTime": 175.846,
+            "duration": 2.818
+        },
+        {
+            "zh": "妈妈，在你进我们屋前，你必须脱掉你的靴子。",
+            "en": "Mummy, before you come in our house, you must take off your boots.",
+            "startTime": 180.999,
+            "duration": 4.747
+        },
+        {
+            "zh": "那当然。",
+            "en": "Of course.",
+            "startTime": 185.87,
+            "duration": 0.728
+        },
+        {
+            "zh": "爸爸也可以进来！",
+            "en": "There's room for Daddy, too!",
+            "startTime": 191.136,
+            "duration": 1.729
+        },
+        {
+            "zh": "请说秘密暗号吧，爸爸！",
+            "en": "Say the secret words, Daddy!",
+            "startTime": 194.426,
+            "duration": 1.934
+        },
+        {
+            "zh": "我可以说不一样的秘密暗号吗？",
+            "en": "Can I have different secret words, please?",
+            "startTime": 196.496,
+            "duration": 3.214
+        },
+        {
+            "zh": "不可以！",
+            "en": "No!",
+            "startTime": 199.765,
+            "duration": 0.864
+        },
+        {
+            "zh": "哦，好吧。“爸爸的大肚子。”",
+            "en": "Oh, all right. ''Daddy's Big Tummy.''",
+            "startTime": 201.793,
+            "duration": 4.3
+        },
+        {
+            "zh": "说得对！",
+            "en": "That's right!",
+            "startTime": 207.946,
+            "duration": 1.204
+        },
+        {
+            "zh": "你现在可以进来了，爸爸！",
+            "en": "You can come in now, Daddy!",
+            "startTime": 209.175,
+            "duration": 1.801
+        },
+        {
+            "zh": "请把你的靴子脱掉！",
+            "en": "Take your boots off!",
+            "startTime": 211.256,
+            "duration": 2.108
+        },
+        {
+            "zh": "我想我可能进不了这扇门。",
+            "en": "I don't think I can fit through the door.",
+            "startTime": 217.154,
+            "duration": 2.589
+        },
+        {
+            "zh": "那是因为你的肚子太大了！",
+            "en": "That's because your tummy is too big!",
+            "startTime": 220.368,
+            "duration": 2.721
+        },
+        {
+            "zh": "我知道了！猪爸爸可以从屋顶上爬进去！",
+            "en": "I know! Daddy Pig can climb in through the top!",
+            "startTime": 225.162,
+            "duration": 3.75
+        },
+        {
+            "zh": "佩奇，乔治，猪妈妈和猪爸爸全都进了树屋里！",
+            "en": "Peppa, George, Mummy Pig and Daddy Pig are all in the tree house!",
+            "startTime": 231.25,
+            "duration": 5.373
+        },
+        {
+            "zh": "奶奶，我喜欢我们的树屋！",
+            "en": "Granny, I love our tree house!",
+            "startTime": 236.716,
+            "duration": 2.306
+        },
+        {
+            "zh": "我不想再出来了！",
+            "en": "I don't want to ever come out!",
+            "startTime": 239.047,
+            "duration": 2.514
+        },
+        {
+            "zh": "很不错，佩奇。",
+            "en": "That's nice, Peppa.",
+            "startTime": 241.726,
+            "duration": 1.194
+        },
+        {
+            "zh": "但你确定不想来我家来看看我了吗？",
+            "en": "But are you sure you don't want to visit me in my house?",
+            "startTime": 243.031,
+            "duration": 3.076
+        },
+        {
+            "zh": "不了，谢谢奶奶。",
+            "en": "No, thank you, Granny.",
+            "startTime": 246.177,
+            "duration": 1.558
+        },
+        {
+            "zh": "如果这样的话，猪爷爷和我只好把我亲手做的饼干全吃掉了。",
+            "en": "In that case, Grandpa Pig and I will just have to eat my homemade cookies all by ourselves.",
+            "startTime": 248.846,
+            "duration": 6.534
+        },
+        {
+            "zh": "有饼干啊！奶奶！",
+            "en": "Coookies! Granny Pig!",
+            "startTime": 255.996,
+            "duration": 6.16
+        },
+        {
+            "zh": "这是我亲手做的饼干！",
+            "en": "Here are my home-made cookies!",
+            "startTime": 262.407,
+            "duration": 2.398
+        },
+        {
+            "zh": "但是，如果你想进来的话，你得说秘密暗号。",
+            "en": "But, if you want to come in, you have to say the secret words.",
+            "startTime": 264.949,
+            "duration": 4.06
+        },
+        {
+            "zh": "那很简单了！“爸爸的大肚子！”",
+            "en": "That's easy! ''Daddy's Big Tummy!''",
+            "startTime": 269.06,
+            "duration": 3.336
+        },
+        {
+            "zh": "说得对！",
+            "en": "That's right!",
+            "startTime": 272.421,
+            "duration": 0.932
+        },
+        {
+            "zh": "好吧，我仍然觉得那个秘密暗号很傻。",
+            "en": "Well, I still think that those are very silly secret words.",
+            "startTime": 275.232,
+            "duration": 3.334
+        }
+    ]
+}
