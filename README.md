@@ -54,3 +54,4 @@
 - [x] 第 35 集露营 | Camping!
 - [x] 第 36 集沉睡公主 | The Sleepy Princess!
 - [x] 第 37 集树屋 | The Tree House!
+- [x] 第 38 集化妆舞会 | Fancy Dress Party!
