@@ -1,0 +1,521 @@
+{
+    "title": "第 38 集化妆舞会 | Fancy Dress Party!",
+    "data": [
+        {
+            "zh": "化妆舞会",
+            "en": "Fancy Dress Party!",
+            "startTime": 17.648,
+            "duration": 2.207
+        },
+        {
+            "zh": "佩奇和乔治在举行化妆舞会。",
+            "en": "Peppa and George are having a fancy dress party.",
+            "startTime": 21.932,
+            "duration": 3.307
+        },
+        {
+            "zh": "他们邀请了所有的朋友。",
+            "en": "All their friends are invited.",
+            "startTime": 25.264,
+            "duration": 2.148
+        },
+        {
+            "zh": "佩奇扮成一位仙女公主。",
+            "en": "Peppa is dressed as a fairy princess.",
+            "startTime": 27.437,
+            "duration": 2.222
+        },
+        {
+            "zh": "乔治扮成一只恐龙。",
+            "en": "And George is dressed as a dinosaur.",
+            "startTime": 31.196,
+            "duration": 2.437
+        },
+        {
+            "zh": "佩奇的朋友来了。",
+            "en": "Here are Peppa's friends.",
+            "startTime": 38.16,
+            "duration": 1.406
+        },
+        {
+            "zh": "小猫凯迪，小羊苏西，小狗丹尼，小兔瑞贝卡和小马佩德罗。",
+            "en": "Candy Cat, Suzy Sheep, Danny Dog, Rebecca Rabbit and Pedro Pony.",
+            "startTime": 39.591,
+            "duration": 4.674
+        },
+        {
+            "zh": "苏西穿着她的护士服。",
+            "en": "Suzy is wearing her nurse's costume.",
+            "startTime": 45.396,
+            "duration": 2.827
+        },
+        {
+            "zh": "你好，苏西！",
+            "en": "Hello, Suzy!",
+            "startTime": 49.507,
+            "duration": 1.012
+        },
+        {
+            "zh": "你好啊，猪先生！",
+            "en": "Hello, Mr. Pig!",
+            "startTime": 51.535,
+            "duration": 1.217
+        },
+        {
+            "zh": "很高兴来了位护士！",
+            "en": "I'm glad the nurse has arrived!",
+            "startTime": 53.087,
+            "duration": 1.855
+        },
+        {
+            "zh": "你是刚从医院来的吗？",
+            "en": "Have you just come from the hospital?",
+            "startTime": 55.096,
+            "duration": 1.69
+        },
+        {
+            "zh": "呃，我不是真的护士。我只是假装护士。",
+            "en": "Er, I'm not a real nurse. It's just pretend.",
+            "startTime": 57.608,
+            "duration": 3.773
+        },
+        {
+            "zh": "非常好。哎哟！这是谁啊？",
+            "en": "Very good. My, my! Who have we here?",
+            "startTime": 62.687,
+            "duration": 4.338
+        },
+        {
+            "zh": "汪！汪！我是海盗！",
+            "en": "Woof! Woof! I'm a pirate!",
+            "startTime": 67.192,
+            "duration": 2.079
+        },
+        {
+            "zh": "吓你一跳",
+            "en": "Shiver me timbers!",
+            "startTime": 69.298,
+            "duration": 2.127
+        },
+        {
+            "zh": "喵！我是一个巫婆！",
+            "en": "Meow! I'm a witch!",
+            "startTime": 71.883,
+            "duration": 1.694
+        },
+        {
+            "zh": "我能把你变成青蛙。",
+            "en": "I can turn you into a frog.",
+            "startTime": 73.602,
+            "duration": 1.942
+        },
+        {
+            "zh": "嘶！我是小丑！",
+            "en": "Neigh! I'm a clown!",
+            "startTime": 76.47,
+            "duration": 2.066
+        },
+        {
+            "zh": "太有趣了！",
+            "en": "That's funny!",
+            "startTime": 79.536,
+            "duration": 2.263
+        },
+        {
+            "zh": "你扮的是什么，瑞贝卡？",
+            "en": "And what are you, Rebecca Rabbit?",
+            "startTime": 81.824,
+            "duration": 2.096
+        },
+        {
+            "zh": "我是胡萝卜.",
+            "en": "I'm a carrot.",
+            "startTime": 84.174,
+            "duration": 1.215
+        },
+        {
+            "zh": "好极了！进来吧。",
+            "en": "Fantastic! Come in.",
+            "startTime": 86.21,
+            "duration": 2.119
+        },
+        {
+            "zh": "里面有仙女公主和恐龙在等着你们。",
+            "en": "There's a fairy princess and a dinosaur waiting to meet you.",
+            "startTime": 88.354,
+            "duration": 3.489
+        },
+        {
+            "zh": "大家好！",
+            "en": "Hello, everyone!",
+            "startTime": 93.237,
+            "duration": 1.147
+        },
+        {
+            "zh": "你好，佩奇！",
+            "en": "Hello, Peppa!",
+            "startTime": 94.409,
+            "duration": 1.365
+        },
+        {
+            "zh": "你好，苏西，我是佩奇公主。",
+            "en": "Hello, Suzy, I'm Princess Peppa.",
+            "startTime": 97.096,
+            "duration": 2.834
+        },
+        {
+            "zh": "你和我说话时要鞠躬。",
+            "en": "You must bow when you speak to me.",
+            "startTime": 100.372,
+            "duration": 2.355
+        },
+        {
+            "zh": "你好，公主殿下。",
+            "en": "Hello, your majesty.",
+            "startTime": 102.791,
+            "duration": 1.479
+        },
+        {
+            "zh": "我是护士苏西！张大嘴说“啊”。",
+            "en": "I'm Nurse Suzy! Open wide and say \"ahhh\".",
+            "startTime": 104.295,
+            "duration": 5.768
+        },
+        {
+            "zh": "我是个小丑。",
+            "en": "I'm a clown.",
+            "startTime": 114.419,
+            "duration": 1.28
+        },
+        {
+            "zh": "表演些有趣的东西吧！",
+            "en": "Do something funny!",
+            "startTime": 115.893,
+            "duration": 1.297
+        },
+        {
+            "zh": "瑞贝卡，你为什么扮成胡萝卜？",
+            "en": "Rebecca, why are you dressed as a carrot?",
+            "startTime": 119.837,
+            "duration": 2.624
+        },
+        {
+            "zh": "我喜欢胡萝卜。",
+            "en": "I like carrots.",
+            "startTime": 122.587,
+            "duration": 1.365
+        },
+        {
+            "zh": "恐龙！",
+            "en": "Dinosaur!",
+            "startTime": 126.577,
+            "duration": 1.424
+        },
+        {
+            "zh": "一只可怕的恐龙！",
+            "en": "A scary dinosaur!",
+            "startTime": 128.706,
+            "duration": 2.091
+        },
+        {
+            "zh": "佩奇在欣赏镜子里的自己。",
+            "en": "Peppa is admiring herself in the mirror.",
+            "startTime": 132.804,
+            "duration": 2.286
+        },
+        {
+            "zh": "镜子，墙上的镜子,",
+            "en": "Mirror, mirror on the wall,",
+            "startTime": 135.17,
+            "duration": 1.969
+        },
+        {
+            "zh": "谁是最漂亮的人？",
+            "en": "who is the fairest of them all?",
+            "startTime": 137.328,
+            "duration": 2.173
+        },
+        {
+            "zh": "是你啊，佩奇。",
+            "en": "You are, Peppa.",
+            "startTime": 139.896,
+            "duration": 2.168
+        },
+        {
+            "zh": "你好，佩奇。",
+            "en": "Hello, Peppa.",
+            "startTime": 143.687,
+            "duration": 1.067
+        },
+        {
+            "zh": "你好，我是一个小仙女公主。",
+            "en": "Hello, I'm a little fairy princess.",
+            "startTime": 144.874,
+            "duration": 3.009
+        },
+        {
+            "zh": "我是一个巫婆，喵！",
+            "en": "I'm a witch. Meow!",
+            "startTime": 148.392,
+            "duration": 1.734
+        },
+        {
+            "zh": "我有一条魔法棒！",
+            "en": "And I've got a magic wand!",
+            "startTime": 150.151,
+            "duration": 2.029
+        },
+        {
+            "zh": "我也有一条魔法棒！",
+            "en": "I've got a magic wand, too!",
+            "startTime": 152.363,
+            "duration": 1.875
+        },
+        {
+            "zh": "我可以把你变成青蛙。",
+            "en": "I can turn you into a frog.",
+            "startTime": 154.645,
+            "duration": 1.843
+        },
+        {
+            "zh": "我也可以把你变成青蛙。",
+            "en": "And I'll turn you into a frog.",
+            "startTime": 156.661,
+            "duration": 2.333
+        },
+        {
+            "zh": "哦，天啊，乔治被他自己的样子吓坏了。",
+            "en": "Oh, dear, George is scared of his own reflection.",
+            "startTime": 166.797,
+            "duration": 2.934
+        },
+        {
+            "zh": "傻乔治，看，它是镜子里的你而已。",
+            "en": "Silly George, look, it's you in the mirror.",
+            "startTime": 169.841,
+            "duration": 3.822
+        },
+        {
+            "zh": "孩子们，是时候决定谁是在化妆舞会上装扮得最好的。",
+            "en": "Children, it's time to decide who has the best fancy dress costume.",
+            "startTime": 177.148,
+            "duration": 4.613
+        },
+        {
+            "zh": "我们需要一个裁判。",
+            "en": "We need a judge.",
+            "startTime": 182.227,
+            "duration": 1.368
+        },
+        {
+            "zh": "我！我！我！",
+            "en": "Me! Me! Me!",
+            "startTime": 183.62,
+            "duration": 1.92
+        },
+        {
+            "zh": "这是佩奇的派对，",
+            "en": "As it's Peppa's party,",
+            "startTime": 185.657,
+            "duration": 1.524
+        },
+        {
+            "zh": "也许应该由她做裁判。",
+            "en": "maybe she should be the judge.",
+            "startTime": 187.452,
+            "duration": 1.774
+        },
+        {
+            "zh": "我是裁判！我是裁判！",
+            "en": "I'm the judge! I'm the judge!",
+            "startTime": 189.516,
+            "duration": 2.04
+        },
+        {
+            "zh": "爸爸，什么是“裁判”？",
+            "en": "Daddy, what is a \"judge\"?",
+            "startTime": 192.524,
+            "duration": 1.627
+        },
+        {
+            "zh": "“裁判”可以决定谁装扮得最好。",
+            "en": "The \"judge\" decides who has the best costume.",
+            "startTime": 194.232,
+            "duration": 2.711
+        },
+        {
+            "zh": "哦，好哦！",
+            "en": "Oh, goody!",
+            "startTime": 197.414,
+            "duration": 0.989
+        },
+        {
+            "zh": "佩奇准备选出装扮得最好的一位。",
+            "en": "Peppa is going to choose who has the best costume.",
+            "startTime": 198.8,
+            "duration": 2.528
+        },
+        {
+            "zh": "苏西，我可以看看你的装扮吗？",
+            "en": "Suzy, can I see your costume, please?",
+            "startTime": 201.419,
+            "duration": 3.445
+        },
+        {
+            "zh": "咩！我是护士苏西。我能减轻人们的病痛。",
+            "en": "Baaa! I'm Nurse Suzy. I make people better.",
+            "startTime": 204.889,
+            "duration": 4.126
+        },
+        {
+            "zh": "很好，护士苏西。现在，到丹尼了！",
+            "en": "Very good, Nurse Suzy. Now, Danny!",
+            "startTime": 209.046,
+            "duration": 3.345
+        },
+        {
+            "zh": "汪！我是一名海盗！吓到你发抖！",
+            "en": "Woof! I'm a pirate! Shiver me timbers!",
+            "startTime": 212.69,
+            "duration": 3.406
+        },
+        {
+            "zh": "现在，到凯迪了。",
+            "en": "Now, Candy.",
+            "startTime": 217.455,
+            "duration": 1.262
+        },
+        {
+            "zh": "喵。我是一个巫婆。我可以把你变成青蛙！",
+            "en": "Meow. I'm a witch. I can turn you into a frog!",
+            "startTime": 218.755,
+            "duration": 3.903
+        },
+        {
+            "zh": "好吧，我是仙女公主我也可以把你变成青蛙！",
+            "en": "Well, I'm a fairy princess and I can turn you into a frog!",
+            "startTime": 222.683,
+            "duration": 3.565
+        },
+        {
+            "zh": "孩子们！孩子们！",
+            "en": "Children! Children!",
+            "startTime": 228.746,
+            "duration": 1.115
+        },
+        {
+            "zh": "对不起，妈妈。",
+            "en": "Sorry, Mummy.",
+            "startTime": 229.954,
+            "duration": 1.262
+        },
+        {
+            "zh": "下一位是谁？",
+            "en": "Who's next?",
+            "startTime": 231.279,
+            "duration": 1.503
+        },
+        {
+            "zh": "我是一个小丑！",
+            "en": "I'm a clown!",
+            "startTime": 233.044,
+            "duration": 1.149
+        },
+        {
+            "zh": "真有趣！瑞贝卡呢？",
+            "en": "That's funny! And Rebecca?",
+            "startTime": 237.623,
+            "duration": 2.714
+        },
+        {
+            "zh": "我是一个胡萝卜。",
+            "en": "I'm a carrot.",
+            "startTime": 240.685,
+            "duration": 1.251
+        },
+        {
+            "zh": "很可爱。",
+            "en": "Lovely.",
+            "startTime": 243.247,
+            "duration": 1.07
+        },
+        {
+            "zh": "我弟弟，乔治，是一只恐龙。",
+            "en": "And my little brother, George, is a scary dinosaur.",
+            "startTime": 245.877,
+            "duration": 3.888
+        },
+        {
+            "zh": "大家的装扮都非常好。",
+            "en": "Everyone's costume is very good.",
+            "startTime": 251.568,
+            "duration": 2.036
+        },
+        {
+            "zh": "现在你公布胜出的人。",
+            "en": "Now you say who the winner is.",
+            "startTime": 256.08,
+            "duration": 1.945
+        },
+        {
+            "zh": "哦，好的！呃 嗯！胜出的人是。。。",
+            "en": "Oh, yes! Uh hum! And the winner is...",
+            "startTime": 258.05,
+            "duration": 4.799
+        },
+        {
+            "zh": "我！",
+            "en": "Me!",
+            "startTime": 263.026,
+            "duration": 1.078
+        },
+        {
+            "zh": "佩奇你不可以选你自己的！你是裁判！",
+            "en": "Peppa you can't pick yourself! You're the judge!",
+            "startTime": 265.748,
+            "duration": 3.209
+        },
+        {
+            "zh": "哦！我不能吗？",
+            "en": "Oh! Can't I?",
+            "startTime": 268.982,
+            "duration": 1.553
+        },
+        {
+            "zh": "你只能选其他人。",
+            "en": "You have to pick another winner.",
+            "startTime": 270.58,
+            "duration": 1.972
+        },
+        {
+            "zh": "好的，胡萝卜获胜。",
+            "en": "Okay, the carrot wins.",
+            "startTime": 272.577,
+            "duration": 2.713
+        },
+        {
+            "zh": "好耶！",
+            "en": "Hurray!",
+            "startTime": 275.379,
+            "duration": 1.115
+        },
+        {
+            "zh": "谢谢你。",
+            "en": "Thank you.",
+            "startTime": 276.527,
+            "duration": 0.75
+        },
+        {
+            "zh": "佩奇喜欢化妆舞会！",
+            "en": "Peppa loves fancy dress parties!",
+            "startTime": 278.063,
+            "duration": 2.473
+        },
+        {
+            "zh": "大家都喜欢化妆舞会！",
+            "en": "Everyone loves fancy dress parties!",
+            "startTime": 280.561,
+            "duration": 2.678
+        }
+    ]
+}

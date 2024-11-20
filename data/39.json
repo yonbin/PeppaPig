@@ -1,0 +1,455 @@
+{
+    "title": "第 39 集博物馆！| The Museum!",
+    "data": [
+        {
+            "zh": "博物馆！",
+            "en": "The Museum!",
+            "startTime": 18.184,
+            "duration": 1.797
+        },
+        {
+            "zh": "佩奇和家人去博物馆参观。",
+            "en": "Peppa and her family are going to the museum.",
+            "startTime": 21.061,
+            "duration": 3.428
+        },
+        {
+            "zh": "爸爸，什么是博物馆？",
+            "en": "Daddy, What is a museum?",
+            "startTime": 27.373,
+            "duration": 2.22
+        },
+        {
+            "zh": "它是一个存放古老又有趣的东西的地方。",
+            "en": "It's a place full of interesting things that are very old.",
+            "startTime": 30.13,
+            "duration": 3.697
+        },
+        {
+            "zh": "比你还老吗？",
+            "en": "Older than you?",
+            "startTime": 34.067,
+            "duration": 1.262
+        },
+        {
+            "zh": "是的，甚至比我还老。",
+            "en": "Yes, even older than me.",
+            "startTime": 35.502,
+            "duration": 2.72
+        },
+        {
+            "zh": "哦~！",
+            "en": "Ooooo!",
+            "startTime": 38.405,
+            "duration": 0.932
+        },
+        {
+            "zh": "真的很老耶。",
+            "en": "Really old.",
+            "startTime": 39.506,
+            "duration": 0.989
+        },
+        {
+            "zh": "有间房间放满属于很久以前的国王和王后的东西。",
+            "en": "There is one room full of things that belonged to kings and queens from long ago.",
+            "startTime": 42.862,
+            "duration": 4.353
+        },
+        {
+            "zh": "我想去看看国王和王后的房间！",
+            "en": "I want to see the king and queen's room!",
+            "startTime": 47.8,
+            "duration": 2.533
+        },
+        {
+            "zh": "另外一个房间有真正的恐龙。",
+            "en": "And there's another room with a real dinosaur.",
+            "startTime": 50.358,
+            "duration": 3.728
+        },
+        {
+            "zh": "哇！恐龙！",
+            "en": "WoW! Dinosaur!",
+            "startTime": 54.181,
+            "duration": 2.88
+        },
+        {
+            "zh": "你好，猪妈妈！",
+            "en": "Hello, Mummy Pig!",
+            "startTime": 61.874,
+            "duration": 0.986
+        },
+        {
+            "zh": "你好，兔女士。",
+            "en": "Hello, Ms. Rabbit.",
+            "startTime": 63.363,
+            "duration": 0.864
+        },
+        {
+            "zh": "请问要多少张票？",
+            "en": "How many tickets, please?",
+            "startTime": 64.367,
+            "duration": 1.527
+        },
+        {
+            "zh": "两张成人票和二张儿童票。",
+            "en": "Two adults and two children.",
+            "startTime": 65.954,
+            "duration": 2.01
+        },
+        {
+            "zh": "恐龙！",
+            "en": "Dinosaur!",
+            "startTime": 69.789,
+            "duration": 2.327
+        },
+        {
+            "zh": "和一张恐龙票！",
+            "en": "And a dinosaur!",
+            "startTime": 73.296,
+            "duration": 1.577
+        },
+        {
+            "zh": "佩奇想去看放满很久以前的国王和王后的东西的房间。",
+            "en": "Peppa wants to see the room full of things that belong to kings and queens from long ago.",
+            "startTime": 77.65,
+            "duration": 4.133
+        },
+        {
+            "zh": "哇！",
+            "en": "WoW!",
+            "startTime": 81.908,
+            "duration": 0.864
+        },
+        {
+            "zh": "恐龙？",
+            "en": "Dinosaur?",
+            "startTime": 83.956,
+            "duration": 1.026
+        },
+        {
+            "zh": "但是乔治想去看真正的恐龙。",
+            "en": "But George wants to see the real dinosaur.",
+            "startTime": 85.236,
+            "duration": 2.394
+        },
+        {
+            "zh": "别担心，乔治。",
+            "en": "Don't worry, George.",
+            "startTime": 89.456,
+            "duration": 1.433
+        },
+        {
+            "zh": "我们接着会去看恐龙的。",
+            "en": "We will see the dinosaur next.",
+            "startTime": 90.914,
+            "duration": 2.076
+        },
+        {
+            "zh": "佩奇，这些东西都是很久以前国王和王后所拥有的。",
+            "en": "Peppa, these are all the things that the queen had a long time ago.",
+            "startTime": 94.44,
+            "duration": 4.127
+        },
+        {
+            "zh": "这是王后特制的椅子。",
+            "en": "This is the queen's special chair.",
+            "startTime": 98.856,
+            "duration": 2.627
+        },
+        {
+            "zh": "它叫宝座。",
+            "en": "It's called a throne.",
+            "startTime": 101.508,
+            "duration": 2.202
+        },
+        {
+            "zh": "它好漂亮啊！",
+            "en": "It's beautiful!",
+            "startTime": 104.077,
+            "duration": 1.391
+        },
+        {
+            "zh": "这条是王后的裙子。",
+            "en": "This is the queen's dress.",
+            "startTime": 107.357,
+            "duration": 1.838
+        },
+        {
+            "zh": "它好美！",
+            "en": "It's so pretty!",
+            "startTime": 109.356,
+            "duration": 1.853
+        },
+        {
+            "zh": "看，佩奇，这是王后的金色皇冠。",
+            "en": "Look, Peppa. This is the queen's golden crown.",
+            "startTime": 112.643,
+            "duration": 4.607
+        },
+        {
+            "zh": "哇！多么漂亮的东西！",
+            "en": "WoW! What lovely things!",
+            "startTime": 117.717,
+            "duration": 3.666
+        },
+        {
+            "zh": "妈妈，王后的电视机放在哪？",
+            "en": "Mummy, where is the queen's television?",
+            "startTime": 122.75,
+            "duration": 3.174
+        },
+        {
+            "zh": "他们那时没有电视。",
+            "en": "They didn't have television then.",
+            "startTime": 126.092,
+            "duration": 1.831
+        },
+        {
+            "zh": "居然没有电视。",
+            "en": "No television!",
+            "startTime": 128.354,
+            "duration": 1.54
+        },
+        {
+            "zh": "但他们有电脑吧？",
+            "en": "But they did have computers?",
+            "startTime": 130.581,
+            "duration": 2.014
+        },
+        {
+            "zh": "没有，他们也没有电脑。",
+            "en": "No, they didn't have computers, either.",
+            "startTime": 132.62,
+            "duration": 2.959
+        },
+        {
+            "zh": "他们整天干些什么呀？",
+            "en": "What did they do all day?",
+            "startTime": 136.466,
+            "duration": 1.917
+        },
+        {
+            "zh": "妈妈，如果我是王后，我想吃多少蛋糕就吃多少。",
+            "en": "Mummy, if I was the queen, I would eat as much cake as I wanted.",
+            "startTime": 140.94,
+            "duration": 5.586
+        },
+        {
+            "zh": "佩奇想像成为一个王后。",
+            "en": "Peppa imagines being a queen.",
+            "startTime": 146.65,
+            "duration": 2.228
+        },
+        {
+            "zh": "嗯。。。太好吃了！",
+            "en": "Mmmmm... delicious!",
+            "startTime": 155.981,
+            "duration": 1.903
+        },
+        {
+            "zh": "你有什么你还想要的吗，佩奇王后？",
+            "en": "Is there anything else you would care for, Queen Peppa?",
+            "startTime": 159.035,
+            "duration": 2.586
+        },
+        {
+            "zh": "是的！再来点蛋糕吧！",
+            "en": "Yes! More cake, please!",
+            "startTime": 161.646,
+            "duration": 2.24
+        },
+        {
+            "zh": "当然可以。",
+            "en": "Of course.",
+            "startTime": 164.056,
+            "duration": 0.898
+        },
+        {
+            "zh": "大家快来。",
+            "en": "Come on, everyone.",
+            "startTime": 167.503,
+            "duration": 1.322
+        },
+        {
+            "zh": "来了，爸爸！",
+            "en": "Coming, Daddy!",
+            "startTime": 169.323,
+            "duration": 1.16
+        },
+        {
+            "zh": "爸爸！我是佩奇王后！",
+            "en": "Daddy! I'm Queen Peppa!",
+            "startTime": 172.705,
+            "duration": 2.434
+        },
+        {
+            "zh": "你跟我说话时必须要鞠躬。",
+            "en": "You must bow when you speak to me.",
+            "startTime": 175.35,
+            "duration": 2.293
+        },
+        {
+            "zh": "哦！我深感抱歉，王后陛下。",
+            "en": "Oh! I'm most terribly sorry, your royal highness.",
+            "startTime": 177.684,
+            "duration": 4.053
+        },
+        {
+            "zh": "你是干什么的？",
+            "en": "And what do you do?",
+            "startTime": 182.148,
+            "duration": 1.49
+        },
+        {
+            "zh": "我是你的爸爸。",
+            "en": "I'm your daddy.",
+            "startTime": 183.757,
+            "duration": 1.228
+        },
+        {
+            "zh": "嗯，这真的很有意思。",
+            "en": "Hmmm, that must be very interesting.",
+            "startTime": 185.11,
+            "duration": 2.672
+        },
+        {
+            "zh": "是的！非常有意思！",
+            "en": "Yes! It's very interesting!",
+            "startTime": 188.014,
+            "duration": 2.786
+        },
+        {
+            "zh": "这间房间是干什么的？",
+            "en": "And what room is this?",
+            "startTime": 191.094,
+            "duration": 1.563
+        },
+        {
+            "zh": "这是恐龙屋。",
+            "en": "This is the dinosaur room.",
+            "startTime": 192.865,
+            "duration": 2.56
+        },
+        {
+            "zh": "恐龙屋？",
+            "en": "The dinosaur room?",
+            "startTime": 195.929,
+            "duration": 1.365
+        },
+        {
+            "zh": "乔治！这就是恐龙屋了！",
+            "en": "George! This is the dinosaur room!",
+            "startTime": 197.57,
+            "duration": 2.594
+        },
+        {
+            "zh": "恐龙！",
+            "en": "Dinosaur!",
+            "startTime": 200.97,
+            "duration": 1.236
+        },
+        {
+            "zh": "恐龙在哪里呢？",
+            "en": "Where is the dinosaur?",
+            "startTime": 203.469,
+            "duration": 1.894
+        },
+        {
+            "zh": "他在屋里某个地方。",
+            "en": "He's somewhere in the room.",
+            "startTime": 205.388,
+            "duration": 2.241
+        },
+        {
+            "zh": "我看不到他。他一定非常小了。",
+            "en": "I can't see him. He must be very small.",
+            "startTime": 207.687,
+            "duration": 3.749
+        },
+        {
+            "zh": "事实上，佩奇，他非常大！",
+            "en": "Actually, Peppa, he's very big!",
+            "startTime": 212.223,
+            "duration": 2.847
+        },
+        {
+            "zh": "哇。",
+            "en": "WoW.",
+            "startTime": 218.15,
+            "duration": 0.932
+        },
+        {
+            "zh": "这些都是真恐龙的骨头。",
+            "en": "These are the bones of a real dinosaur.",
+            "startTime": 219.316,
+            "duration": 3.867
+        },
+        {
+            "zh": "恐龙！",
+            "en": "Dinosaur!",
+            "startTime": 225.03,
+            "duration": 1.422
+        },
+        {
+            "zh": "乔治想像变成一条大恐龙。",
+            "en": "George imagines being a big dinosaur.",
+            "startTime": 230.823,
+            "duration": 2.872
+        },
+        {
+            "zh": "一条恐龙！救命！救命！",
+            "en": "It's a dinosaur! Help! Help!",
+            "startTime": 238.845,
+            "duration": 6.363
+        },
+        {
+            "zh": "这间恐龙屋是乔治最喜欢的房间！",
+            "en": "The dinosaur room is George's favorite room!",
+            "startTime": 251.217,
+            "duration": 3.246
+        },
+        {
+            "zh": "我最喜欢的是国王和王后的房间。",
+            "en": "My favorite room is the king and queen's room.",
+            "startTime": 256.669,
+            "duration": 4.046
+        },
+        {
+            "zh": "看来爸爸好像已经到了他最喜欢的房间了。",
+            "en": "And it looks as if Daddy Pig is already in his favorite room.",
+            "startTime": 260.947,
+            "duration": 3.94
+        },
+        {
+            "zh": "那是什么房间，妈妈？",
+            "en": "Which room is that, Mummy?",
+            "startTime": 264.912,
+            "duration": 1.709
+        },
+        {
+            "zh": "有很多蛋糕的房间。",
+            "en": "The room with the cakes in.",
+            "startTime": 266.757,
+            "duration": 1.599
+        },
+        {
+            "zh": "猪爸爸最爱的房间是博物馆的餐厅。",
+            "en": "Daddy Pig's favorite room is the museum cafe.",
+            "startTime": 268.835,
+            "duration": 5.146
+        },
+        {
+            "zh": "快来，开动吧！",
+            "en": "Come on, tuck in!",
+            "startTime": 274.481,
+            "duration": 2.148
+        },
+        {
+            "zh": "哦，是的！这真是最好的房间！",
+            "en": "Oh, yes! This is a very nice room!",
+            "startTime": 277.143,
+            "duration": 3.8
+        }
+    ]
+}
