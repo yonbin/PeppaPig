@@ -56,3 +56,4 @@
 - [x] 第 37 集树屋 | The Tree House!
 - [x] 第 38 集化妆舞会 | Fancy Dress Party!
 - [x] 第 39 集博物馆！| The Museum!
+- [x] 第 40 集酷暑难当! | Very Hot Day!
