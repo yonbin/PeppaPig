@@ -57,3 +57,4 @@
 - [x] 第 38 集化妆舞会 | Fancy Dress Party!
 - [x] 第 39 集博物馆！| The Museum!
 - [x] 第 40 集酷暑难当! | Very Hot Day!
+- [x] 第 41 集克洛伊的木偶表演! | Chloe's Puppet Show!
