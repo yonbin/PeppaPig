@@ -60,3 +60,4 @@
 - [x] 第 41 集克洛伊的木偶表演! | Chloe's Puppet Show!
 - [x] 第 42 集爸爸减肥 | Daddy Gets Fit!
 - [x] 第 43 集整理房间！ | Tidying Up!
+- [x] 第 44 集操场 | The Playground!
