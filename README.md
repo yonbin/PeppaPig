@@ -61,3 +61,4 @@
 - [x] 第 42 集爸爸减肥 | Daddy Gets Fit!
 - [x] 第 43 集整理房间！ | Tidying Up!
 - [x] 第 44 集操场 | The Playground!
+- [x] 第 45 集爸爸挂相片 | Daddy Puts up a Picture!
