@@ -63,3 +63,4 @@
 - [x] 第 44 集操场 | The Playground!
 - [x] 第 45 集爸爸挂相片 | Daddy Puts up a Picture!
 - [x] 第 46 集去海边玩！ | At the beach!
+- [x] 第 47 集瘦腿先生 | Mister Skinnylegs!
