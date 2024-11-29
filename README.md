@@ -64,3 +64,4 @@
 - [x] 第 45 集爸爸挂相片 | Daddy Puts up a Picture!
 - [x] 第 46 集去海边玩！ | At the beach!
 - [x] 第 47 集瘦腿先生 | Mister Skinnylegs!
+- [x] 第 48 集猪爷爷的船 | Grandpa Pig's Boat
