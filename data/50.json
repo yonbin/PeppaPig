@@ -1,0 +1,521 @@
+{
+    "title": "第 50 集我的生日派对 | My Birthday Party!",
+    "data": [
+        {
+            "zh": "我的生日派对",
+            "en": "My Birthday Party!",
+            "startTime": 18.544,
+            "duration": 2.298
+        },
+        {
+            "zh": "今天是佩奇的生日。",
+            "en": "It is Peppa's Birthday.",
+            "startTime": 22.181,
+            "duration": 1.503
+        },
+        {
+            "zh": "天还没有亮。（还非常早）",
+            "en": "It is very early in the morning.",
+            "startTime": 25.104,
+            "duration": 2.018
+        },
+        {
+            "zh": "今天是我的生日。",
+            "en": "It's my birthday!",
+            "startTime": 28.384,
+            "duration": 1.468
+        },
+        {
+            "zh": "乔治！起床！今天是我的生日。",
+            "en": "George! Wake up! It's my birthday!",
+            "startTime": 29.955,
+            "duration": 3.34
+        },
+        {
+            "zh": "我要举办一个生日派对！",
+            "en": "I'm going to have a party!",
+            "startTime": 34.255,
+            "duration": 1.807
+        },
+        {
+            "zh": "爸爸还会进行魔术表演哦！",
+            "en": "And Daddy is doing a magic show!",
+            "startTime": 36.402,
+            "duration": 2.373
+        },
+        {
+            "zh": "快，乔治！我们去叫醒爸爸妈妈！",
+            "en": "Quick, George! Let's wake Mummy and Daddy up!",
+            "startTime": 39.615,
+            "duration": 2.888
+        },
+        {
+            "zh": "猪妈妈和猪爸爸现在还在睡觉。",
+            "en": "Mummy Pig and Daddy Pig are still fast asleep.",
+            "startTime": 44.15,
+            "duration": 2.813
+        },
+        {
+            "zh": "起床啦，今天是我的生日！起床啦！",
+            "en": "Wake up, it's my birthday! Wake up!",
+            "startTime": 47.37,
+            "duration": 3.635
+        },
+        {
+            "zh": "现在几点了？",
+            "en": "What time is it?",
+            "startTime": 52.911,
+            "duration": 1.45
+        },
+        {
+            "zh": "已经很晚了。",
+            "en": "It's very late.",
+            "startTime": 54.404,
+            "duration": 1.581
+        },
+        {
+            "zh": "现在才早上五点而已。",
+            "en": "It's five o'clock in the morning.",
+            "startTime": 56.718,
+            "duration": 2.21
+        },
+        {
+            "zh": "是的！一天过得很快的！",
+            "en": "Yes! The whole day is going!",
+            "startTime": 59.078,
+            "duration": 2.23
+        },
+        {
+            "zh": "好的，我们开始庆祝你的生日吧！",
+            "en": "Ok, let's get your birthday started!",
+            "startTime": 62.808,
+            "duration": 2.195
+        },
+        {
+            "zh": "耶~！",
+            "en": "Yippee!",
+            "startTime": 65.757,
+            "duration": 0.989
+        },
+        {
+            "zh": "猪妈妈，猪爸爸和乔治把生日礼物送给了佩奇。",
+            "en": "Mummy Pig, Daddy Pig, and George are giving Peppa her birthday present.",
+            "startTime": 71.037,
+            "duration": 4.453
+        },
+        {
+            "zh": "生日快乐，佩奇！",
+            "en": "Happy birthday, Peppa!",
+            "startTime": 75.515,
+            "duration": 2.369
+        },
+        {
+            "zh": "是什么呢？",
+            "en": "What is it?",
+            "startTime": 80.063,
+            "duration": 1.974
+        },
+        {
+            "zh": "是玩偶的裙子！",
+            "en": "A doll's dress!",
+            "startTime": 83.929,
+            "duration": 1.633
+        },
+        {
+            "zh": "我可以给泰迪穿上了！",
+            "en": "I can put it on Teddy!",
+            "startTime": 85.689,
+            "duration": 2.113
+        },
+        {
+            "zh": "谢谢大家！",
+            "en": "Thank you, everyone!",
+            "startTime": 88.733,
+            "duration": 1.256
+        },
+        {
+            "zh": "不用客气，佩奇。",
+            "en": "You're welcome, Peppa.",
+            "startTime": 90.014,
+            "duration": 1.237
+        },
+        {
+            "zh": "我不知道佩奇原来是个女孩。",
+            "en": "I didn't know Teddy was a girl teddy.",
+            "startTime": 91.871,
+            "duration": 2.003
+        },
+        {
+            "zh": "哦，爸爸，泰迪当然是个女孩。",
+            "en": "Oh, Daddy, of course Teddy's a girl.",
+            "startTime": 93.961,
+            "duration": 3.12
+        },
+        {
+            "zh": "我喜欢我的新裙子。",
+            "en": "I love my new dress.",
+            "startTime": 97.67,
+            "duration": 1.713
+        },
+        {
+            "zh": "谢谢大家。",
+            "en": "Thank you, everyone.",
+            "startTime": 99.433,
+            "duration": 1.317
+        },
+        {
+            "zh": "不用客气，泰迪。",
+            "en": "You're welcome, Teddy.",
+            "startTime": 100.927,
+            "duration": 1.789
+        },
+        {
+            "zh": "小心不要弄脏了。",
+            "en": "Don't get it dirty.",
+            "startTime": 102.842,
+            "duration": 1.348
+        },
+        {
+            "zh": "你知道接下来有什么节目吗，佩奇？",
+            "en": "Do you know what's happening next, Peppa?",
+            "startTime": 104.389,
+            "duration": 2.099
+        },
+        {
+            "zh": "知道，我的朋友们会来参加我的生日派对，爸爸还会表演魔术！",
+            "en": "Yes, my friends are coming for my birthday party, and Daddy is doing a magic show!",
+            "startTime": 106.565,
+            "duration": 6.387
+        },
+        {
+            "zh": "没有人会知道魔术师是你爸爸。",
+            "en": "No one will know the magician is your daddy.",
+            "startTime": 113.005,
+            "duration": 3.541
+        },
+        {
+            "zh": "你介绍我的时候就说是“传说中的神秘人”",
+            "en": "You will introduce me as, ''The Amazing Mysterio!''",
+            "startTime": 116.802,
+            "duration": 3.872
+        },
+        {
+            "zh": "“传说中的神秘人”",
+            "en": "''The Mazy Misty-O.''",
+            "startTime": 120.965,
+            "duration": 2.127
+        },
+        {
+            "zh": "是的，“传说中的神秘人”",
+            "en": "Yes, ''The Amazing Mysterio!''",
+            "startTime": 123.315,
+            "duration": 3.647
+        },
+        {
+            "zh": "爸爸一整个礼拜都在练习他的魔术！",
+            "en": "Daddy's been practicing his magic tricks all week!",
+            "startTime": 127.106,
+            "duration": 3.299
+        },
+        {
+            "zh": "我的朋友们来了！",
+            "en": "My friends are here!",
+            "startTime": 131.658,
+            "duration": 1.433
+        },
+        {
+            "zh": "好耶~！",
+            "en": "Yippee!",
+            "startTime": 134.178,
+            "duration": 0.864
+        },
+        {
+            "zh": "这些是佩奇的朋友，",
+            "en": "Here are Peppa's friends,",
+            "startTime": 135.698,
+            "duration": 1.613
+        },
+        {
+            "zh": "小猫凯迪，小羊苏西，小狗丹尼，小兔瑞贝卡和小马佩德罗。",
+            "en": "Candy Cat, Suzy Sheep, Danny Dog,Rebecca Rabbit and Pedro Pony.",
+            "startTime": 137.384,
+            "duration": 4.62
+        },
+        {
+            "zh": "大家好！",
+            "en": "Hello, everyone!",
+            "startTime": 142.029,
+            "duration": 1.228
+        },
+        {
+            "zh": "生日快乐，佩奇！",
+            "en": "Happy birthday, Peppa!",
+            "startTime": 143.421,
+            "duration": 1.6
+        },
+        {
+            "zh": "进来吧，孩子们！派对开始了！",
+            "en": "Come on, children! The party is starting!",
+            "startTime": 146.568,
+            "duration": 2.233
+        },
+        {
+            "zh": "太好了！",
+            "en": "Hurray!",
+            "startTime": 148.826,
+            "duration": 1.126
+        },
+        {
+            "zh": "猪爸爸要表演魔术了！",
+            "en": "Daddy Pig is going to do a magic show!",
+            "startTime": 151.791,
+            "duration": 2.844
+        },
+        {
+            "zh": "佩奇，记住你要说的哦，",
+            "en": "Peppa, remember what you have to say,",
+            "startTime": 155.367,
+            "duration": 2.411
+        },
+        {
+            "zh": "“女士们，先生们，这位是传说中的神秘人！”",
+            "en": "''Ladies and gentlemen, introducing the Amazing Mysterio!!''",
+            "startTime": 158.137,
+            "duration": 5.165
+        },
+        {
+            "zh": "好的，爸爸！",
+            "en": "Okay, Daddy!",
+            "startTime": 163.682,
+            "duration": 0.989
+        },
+        {
+            "zh": "女士们，先生们，这位是神秘的爸爸！",
+            "en": "Ladies and gentlemen. Um. It's Magic Daddy!",
+            "startTime": 165.498,
+            "duration": 5.333
+        },
+        {
+            "zh": "好耶！",
+            "en": "Hurray!",
+            "startTime": 170.856,
+            "duration": 1.474
+        },
+        {
+            "zh": "我的第一个魔术！变~变~变~！",
+            "en": "For my first trick! Abracadabra!",
+            "startTime": 174.466,
+            "duration": 5.737
+        },
+        {
+            "zh": "哇！是泰迪！",
+            "en": "WoW! It's Teddy!",
+            "startTime": 182.902,
+            "duration": 2.297
+        },
+        {
+            "zh": "下一个魔术，我需要一个观众帮忙。",
+            "en": "For my next trick, I need a helper from the audience.",
+            "startTime": 187.632,
+            "duration": 3.583
+        },
+        {
+            "zh": "我！我！我！我！",
+            "en": "Me! Me! Me! Me!",
+            "startTime": 191.24,
+            "duration": 1.852
+        },
+        {
+            "zh": "我只需要一个人！",
+            "en": "I just need one!",
+            "startTime": 193.117,
+            "duration": 2.149
+        },
+        {
+            "zh": "小姑娘，你是第一个举手的。",
+            "en": "Young lady, you put your hand up first.",
+            "startTime": 195.779,
+            "duration": 2.639
+        },
+        {
+            "zh": "你能向观众介绍你的名字吗？",
+            "en": "Can you tell the audience your name?",
+            "startTime": 198.611,
+            "duration": 1.737
+        },
+        {
+            "zh": "小羊苏西。",
+            "en": "Suzy Sheep.",
+            "startTime": 201.454,
+            "duration": 1.194
+        },
+        {
+            "zh": "好的，苏西。这里有三个球。",
+            "en": "Okay, Suzy. Here are three balls.",
+            "startTime": 203.134,
+            "duration": 2.537
+        },
+        {
+            "zh": "一个红色的，一个蓝色的和一个黄色的。",
+            "en": "A red one, a blue one and a yellow one.",
+            "startTime": 205.696,
+            "duration": 3.55
+        },
+        {
+            "zh": "好的。",
+            "en": "Okay.",
+            "startTime": 209.395,
+            "duration": 0.822
+        },
+        {
+            "zh": "当我转过身去时，你要悄悄地选一个球。",
+            "en": "You have to secretly choose one while my back is turned.",
+            "startTime": 210.389,
+            "duration": 4.507
+        },
+        {
+            "zh": "好的。",
+            "en": "Okay.",
+            "startTime": 215.053,
+            "duration": 0.889
+        },
+        {
+            "zh": "你选好了吗？",
+            "en": "Have you chosen one?",
+            "startTime": 216.649,
+            "duration": 1.297
+        },
+        {
+            "zh": "是的。",
+            "en": "Yes.",
+            "startTime": 218.184,
+            "duration": 0.737
+        },
+        {
+            "zh": "变~变~变~变~！你选的。。。是黄色球！",
+            "en": "Abracadabra! You chose... Yellow!",
+            "startTime": 219.144,
+            "duration": 4.232
+        },
+        {
+            "zh": "不对。",
+            "en": "No.",
+            "startTime": 224.209,
+            "duration": 0.625
+        },
+        {
+            "zh": "呃。变~变~变~变~！。。。是蓝色球！",
+            "en": "Er. Abracadabra!... Blue!",
+            "startTime": 225.198,
+            "duration": 3.17
+        },
+        {
+            "zh": "不对。",
+            "en": "No.",
+            "startTime": 228.474,
+            "duration": 0.625
+        },
+        {
+            "zh": "变~变~变~变~！。。。是红色球！",
+            "en": "Abracadabra!... Red!",
+            "startTime": 229.453,
+            "duration": 2.359
+        },
+        {
+            "zh": "对了！它是红的！",
+            "en": "Yes! It is red!",
+            "startTime": 231.837,
+            "duration": 2.059
+        },
+        {
+            "zh": "太好了！",
+            "en": "Hurray!",
+            "startTime": 233.921,
+            "duration": 1.94
+        },
+        {
+            "zh": "傻神秘爸爸，",
+            "en": "Silly Magic Daddy,",
+            "startTime": 236.881,
+            "duration": 2.12
+        },
+        {
+            "zh": "你把三种颜色都说了！",
+            "en": "you said all three colors!",
+            "startTime": 239.116,
+            "duration": 2.314
+        },
+        {
+            "zh": "嘘。。。佩奇！别让别人知道！",
+            "en": "Shush... Peppa! Don't tell anyone!",
+            "startTime": 241.455,
+            "duration": 2.308
+        },
+        {
+            "zh": "你们还想再看一个魔术吗？",
+            "en": "Would you like one more trick?",
+            "startTime": 247.125,
+            "duration": 1.717
+        },
+        {
+            "zh": "是的，请！",
+            "en": "Yes, please!",
+            "startTime": 248.867,
+            "duration": 2.058
+        },
+        {
+            "zh": "闭上你们的眼睛，不准偷看哦！",
+            "en": "Close your eyes! No looking!",
+            "startTime": 252.604,
+            "duration": 3.221
+        },
+        {
+            "zh": "念咒语，“变~变~变~变~！”",
+            "en": "Say the magic words, ''Abracadabra!''",
+            "startTime": 256.051,
+            "duration": 3.202
+        },
+        {
+            "zh": "变~变~变~变~！",
+            "en": "Ab-Ra-Ca-Dabra!",
+            "startTime": 259.337,
+            "duration": 2.533
+        },
+        {
+            "zh": "打开你们的眼睛！",
+            "en": "Open your eyes!",
+            "startTime": 261.895,
+            "duration": 1.722
+        },
+        {
+            "zh": "太棒了！我的香蕉生日蛋糕！",
+            "en": "Hurray! My banana birthday cake!",
+            "startTime": 265.844,
+            "duration": 3.481
+        },
+        {
+            "zh": "吹生日蜡烛，佩奇！",
+            "en": "Blow the candles out, Peppa.",
+            "startTime": 269.35,
+            "duration": 2.194
+        },
+        {
+            "zh": "好耶！生日快乐，佩奇！",
+            "en": "Hurray! Happy birthday, Peppa!",
+            "startTime": 273.632,
+            "duration": 2.992
+        },
+        {
+            "zh": "谢谢大家！",
+            "en": "Thank you, everyone!",
+            "startTime": 276.649,
+            "duration": 1.242
+        },
+        {
+            "zh": "这是我过得最棒的生日了！",
+            "en": "This is my best birthday ever!",
+            "startTime": 277.916,
+            "duration": 3.626
+        }
+    ]
+}

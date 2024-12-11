@@ -14,7 +14,7 @@
 
 上一句：`ctrl + ,`
 
-### 进度，16/52
+### 进度，52/52
 
 - [x] 第 1 集 泥坑|Muddy Puddles
 - [x] 第 2 集 恐龙先生不见了|Mr. Dinosaur is Lost
@@ -65,3 +65,7 @@
 - [x] 第 46 集去海边玩！ | At the beach!
 - [x] 第 47 集瘦腿先生 | Mister Skinnylegs!
 - [x] 第 48 集猪爷爷的船 | Grandpa Pig's Boat
+- [x] 第 49 集购物！ | Shopping!
+- [x] 第 50 集我的生日派对 | My Birthday Party!
+- [x] 第 51 集爸爸的摄像机！ | Daddy's Movie Camera!
+- [x] 第 52 集学校戏剧 | School Play!
