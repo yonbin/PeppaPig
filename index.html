@@ -24,7 +24,6 @@
         .then((res) => res.json())
         .then((json) => {
 
-
             let html = '<div class="row row-cols-1 row-cols-md-4 g-4" >';
             for (let i = 0; i < json.length; i++) {
                 let zh = json[i].split('|')[0];

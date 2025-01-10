@@ -2,36 +2,6 @@
   "title": "第 1 集 泥坑|Muddy Puddles",
   "data": [
     {
-      "zh": "我是小猪佩奇。",
-      "en": "I'm Peppa Pig.",
-      "startTime": 2.56,
-      "duration": 1.8900000000000001
-    },
-    {
-      "zh": "这是我的弟弟，乔治。",
-      "en": "This is my little brother, George.",
-      "startTime": 4.72,
-      "duration": 2.0
-    },
-    {
-      "zh": "这是我的妈妈。",
-      "en": "This is Mummy Pig.",
-      "startTime": 7.44,
-      "duration": 2.089999999999999
-    },
-    {
-      "zh": "这是我的爸爸。",
-      "en": "And this is Daddy Pig.",
-      "startTime": 9.81,
-      "duration": 2.6099999999999994
-    },
-    {
-      "zh": "小猪佩奇。",
-      "en": "Peppa pig.",
-      "startTime": 13.55,
-      "duration": 1.0899999999999999
-    },
-    {
       "zh": "泥坑。",
       "en": "Muddy Puddles.",
       "startTime": 20.86,
@@ -45,7 +15,7 @@
     },
     {
       "zh": "所以 佩奇和乔治不能在外面玩了。",
-      "en": "So, Peppa and George Cannot play outside.",
+      "en": "So, Peppa and George cannot play outside.",
       "startTime": 28.81,
       "duration": 3.0700000000000003
     },
